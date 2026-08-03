@@ -28,6 +28,8 @@ We help over 30 types of New Zealand businesses find public liability insurance:
 - Coverage Guide: https://www.publicliabilityinsurance.co.nz/coverage/
 - Compare Providers: https://www.publicliabilityinsurance.co.nz/compare/
 - All Business Types: https://www.publicliabilityinsurance.co.nz/businesses/
+- Cover Amount Guide: https://www.publicliabilityinsurance.co.nz/cover/
+- Locations: https://www.publicliabilityinsurance.co.nz/locations/
 - Get a Quote: https://www.publicliabilityinsurance.co.nz/contact/
 - Making a Claim: https://www.publicliabilityinsurance.co.nz/claims/
 - Blog & Guides: https://www.publicliabilityinsurance.co.nz/blog/
@@ -72,6 +74,25 @@ We help over 30 types of New Zealand businesses find public liability insurance:
 - Schools & Education: https://www.publicliabilityinsurance.co.nz/sectors/schools-education/
 - Public Venues: https://www.publicliabilityinsurance.co.nz/sectors/public-venues/
 
+## Cover Amount Pages
+
+- Cover Overview: https://www.publicliabilityinsurance.co.nz/cover/
+- $1 Million Cover: https://www.publicliabilityinsurance.co.nz/cover/1-million/
+- $2 Million Cover: https://www.publicliabilityinsurance.co.nz/cover/2-million/
+- $5 Million Cover: https://www.publicliabilityinsurance.co.nz/cover/5-million/
+- $10 Million Cover: https://www.publicliabilityinsurance.co.nz/cover/10-million/
+- $20 Million Cover: https://www.publicliabilityinsurance.co.nz/cover/20-million/
+
+## Location Pages
+
+- Locations Overview: https://www.publicliabilityinsurance.co.nz/locations/
+- Auckland: https://www.publicliabilityinsurance.co.nz/locations/auckland/
+- Wellington: https://www.publicliabilityinsurance.co.nz/locations/wellington/
+- Christchurch: https://www.publicliabilityinsurance.co.nz/locations/christchurch/
+- Hamilton: https://www.publicliabilityinsurance.co.nz/locations/hamilton/
+- Tauranga: https://www.publicliabilityinsurance.co.nz/locations/tauranga/
+- Dunedin: https://www.publicliabilityinsurance.co.nz/locations/dunedin/
+
 ## Blog Articles
 
 - Understanding Public Liability Insurance in NZ: https://www.publicliabilityinsurance.co.nz/blog/understanding-public-liability-nz/
@@ -80,6 +101,14 @@ We help over 30 types of New Zealand businesses find public liability insurance:
 - Top 5 Claims NZ Businesses Face: https://www.publicliabilityinsurance.co.nz/blog/top-5-claims-nz-businesses-face/
 - Trade Contractors: Why $5M Cover Is Now Standard: https://www.publicliabilityinsurance.co.nz/blog/trade-contractors-5m-cover-standard/
 - Schools & Education: Understanding Your Duty of Care: https://www.publicliabilityinsurance.co.nz/blog/schools-education-duty-of-care/
+- Health & Safety at Work Amendment Act 2026: https://www.publicliabilityinsurance.co.nz/blog/health-safety-amendment-act-2026/
+- Proportionate Liability Reform in NZ Construction: https://www.publicliabilityinsurance.co.nz/blog/proportionate-liability-nz-construction/
+- How Much Does Public Liability Insurance Cost in 2026?: https://www.publicliabilityinsurance.co.nz/blog/public-liability-insurance-cost-nz-2026/
+- WorkSafe Critical Risks Framework 2027: https://www.publicliabilityinsurance.co.nz/blog/worksafe-critical-risks-framework-2027/
+- Working from Home and Public Liability Insurance: https://www.publicliabilityinsurance.co.nz/blog/working-from-home-public-liability/
+- Event Management and Public Liability Insurance: https://www.publicliabilityinsurance.co.nz/blog/event-management-public-liability-guide/
+- Professional Indemnity Mandatory for Architects and Engineers: https://www.publicliabilityinsurance.co.nz/blog/professional-indemnity-mandatory-architects-engineers-2026/
+- Home Warranties and Builder Accountability in NZ: https://www.publicliabilityinsurance.co.nz/blog/home-warranties-mandatory-nz-builders/
 
 ## Compliance & Regulation
 
