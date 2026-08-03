@@ -4,6 +4,9 @@ import CTABanner from '@/components/CTABanner';
 
 export const metadata: Metadata = {
   title: 'Making a Public Liability Insurance Claim | Step-by-Step Guide',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/claims/',
+  },
   description: 'What to do when a claim is made against your business. Step-by-step guide to the public liability claims process, insurer contacts, and documentation requirements.',
   robots: 'index, follow',
 };

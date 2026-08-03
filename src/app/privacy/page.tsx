@@ -2,6 +2,9 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Privacy Policy | Cover4You',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/privacy/',
+  },
   description: 'Cover4You privacy policy explaining how we collect, use, and protect your personal information.',
   robots: 'noindex, follow',
 };

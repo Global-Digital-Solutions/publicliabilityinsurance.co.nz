@@ -5,6 +5,9 @@ import CTABanner from '@/components/CTABanner';
 
 export const metadata: Metadata = {
   title: 'Public Liability Insurance for Schools & Education | NZ ECE, Primary, Secondary',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/sectors/schools-education/',
+  },
   description:
     'Essential public liability insurance for NZ schools, early childhood, tertiary providers, and after-school programs. Duty of care coverage. Compare quotes today.',
   openGraph: {

@@ -5,6 +5,9 @@ import CTABanner from '@/components/CTABanner';
 
 export const metadata: Metadata = {
   title: 'Public Liability Insurance for Trade Contractors | NZ Builders, Plumbers, Electricians',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/sectors/trade-contractors/',
+  },
   description:
     'Get public liability insurance for builders, plumbers, electricians, painters, landscapers, and HVAC contractors in New Zealand. Site-specific coverage available.',
   openGraph: {

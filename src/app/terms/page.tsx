@@ -2,6 +2,9 @@ import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Terms and Conditions | Cover4You',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/terms/',
+  },
   description: 'Cover4You terms and conditions for using our public liability insurance comparison service.',
   robots: 'noindex, follow',
 };

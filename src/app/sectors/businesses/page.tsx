@@ -5,6 +5,9 @@ import CTABanner from '@/components/CTABanner';
 
 export const metadata: Metadata = {
   title: 'Public Liability Insurance for Businesses & Retail | NZ',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/sectors/businesses/',
+  },
   description:
     'Get public liability insurance for retail shops, cafes, restaurants, salons, and professional services. Compare quotes from NZ insurers.',
   openGraph: {

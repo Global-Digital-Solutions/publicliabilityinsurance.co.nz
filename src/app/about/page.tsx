@@ -4,6 +4,9 @@ import CTABanner from '@/components/CTABanner';
 
 export const metadata: Metadata = {
   title: 'About Us | PublicLiabilityInsurance.co.nz | NZ-Owned Insurance Comparison',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/about/',
+  },
   description: 'We\'re a NZ-owned service that cuts through the confusion of the insurance market — comparing multiple providers so you get the right cover at the right price, without paying for what you don\'t need.',
   openGraph: {
     title: 'About PublicLiabilityInsurance.co.nz',

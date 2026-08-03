@@ -3,6 +3,9 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Disclaimer | PublicLiabilityInsurance.co.nz',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/disclaimer/',
+  },
   description: 'Important disclaimer for PublicLiabilityInsurance.co.nz — general information notice, referral service disclosure, regulatory status, and accuracy of information.',
   robots: 'index, follow',
 };

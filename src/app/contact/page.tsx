@@ -4,6 +4,9 @@ import { faqs } from '@/data/faqs';
 
 export const metadata: Metadata = {
   title: 'Contact Cover4You | Get Public Liability Insurance Quote | NZ',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/contact/',
+  },
   description: 'Get a public liability insurance quote from Cover4You. Contact us or use our quote form to get personalised coverage options from NZ insurers.',
   openGraph: {
     title: 'Contact Cover4You',

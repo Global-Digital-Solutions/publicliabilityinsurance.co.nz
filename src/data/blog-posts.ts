@@ -391,4 +391,516 @@ export const blogPosts: BlogPost[] = [
 
     `,
   },
+  {
+    slug: 'health-safety-amendment-act-2026',
+    title: 'Health & Safety at Work Amendment Act 2026: What It Means for Your Insurance',
+    excerpt:
+      'The Health and Safety at Work Amendment Act 2026 received Royal Assent on 9 July 2026 and takes effect 1 April 2027. Here\'s what the new critical risks framework means for businesses and their public liability cover.',
+    date: '2026-08-03',
+    category: 'Regulation',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>The Health and Safety at Work Amendment Act 2026 (the Amendment Act) received Royal Assent on 9 July 2026 and will come into force on 1 April 2027. The changes represent the most significant update to workplace health and safety law since the original Health and Safety at Work Act 2015 (HSWA) — and they carry direct implications for public liability insurance across a wide range of industries.</p>
+
+        <h2>Background: Why the Amendment Was Introduced</h2>
+        <p>New Zealand's workplace injury and fatality rates have remained persistently high since the HSWA came into force. WorkSafe New Zealand and the Ministry of Business, Innovation and Employment identified that many businesses were applying generic hazard management processes to all risks — treating a loose carpet with the same procedural weight as asbestos removal or working at height. The Amendment Act introduces a tiered "critical risks" framework designed to focus the highest scrutiny on activities most likely to cause fatalities or serious harm.</p>
+
+        <h2>The Critical Risks Framework</h2>
+        <p>From 1 April 2027, businesses with one or more designated "critical risk" activities must comply with enhanced obligations that go beyond the current good-faith duty to eliminate or minimise risks. The key features are:</p>
+        <ul>
+          <li><strong>Mandatory critical risk registers</strong> — PCBUs (persons conducting a business or undertaking) with critical risk activities must maintain a documented register, reviewed at least annually and after any relevant incident.</li>
+          <li><strong>Enhanced board-level accountability</strong> — For companies with 20 or more employees, at least one officer (director or senior manager) must formally certify annually that the critical risk register is accurate and that controls are being applied.</li>
+          <li><strong>Prescribed control hierarchies</strong> — For activities involving working at height, confined spaces, hazardous substances, and mobile plant, the Amendment Act replaces the general HSWA hierarchy of controls with prescribed minimum standards developed by WorkSafe.</li>
+          <li><strong>Notifiable critical risk failures</strong> — A failure of any prescribed control (for example, a safety harness not being used during work at height) must be notified to WorkSafe within 24 hours, even if no injury occurs.</li>
+        </ul>
+
+        <h2>Which Industries Are Affected?</h2>
+        <p>WorkSafe has published an indicative list of activities that will be designated as critical risks in regulations to be finalised before April 2027. These include:</p>
+        <ul>
+          <li>Work at height above 1.5 metres (construction, maintenance, roofing, scaffolding)</li>
+          <li>Excavation and trenching work</li>
+          <li>Work involving asbestos or other hazardous substances</li>
+          <li>Operation of mobile plant including forklifts, cranes, and excavators</li>
+          <li>Confined space entry</li>
+          <li>Electrical work on live equipment</li>
+          <li>Work in proximity to road traffic</li>
+        </ul>
+        <p>For the construction, trade, and civil engineering sectors, this covers the majority of day-to-day work.</p>
+
+        <h2>What This Means for Public Liability Insurance</h2>
+        <p>The Amendment Act does not mandate public liability insurance — but it changes the risk environment in ways that make coverage more important, not less.</p>
+
+        <h3>Stricter Duty of Care Creates Greater Liability Exposure</h3>
+        <p>When WorkSafe regulations prescribe minimum control standards, a failure to follow them creates a much clearer paper trail of negligence. If your scaffolding company does not comply with the prescribed scaffolding safety standard and a third party is injured, the claimant's lawyers will have a straightforward argument: you knew the standard, you failed to apply it, and someone was hurt. This increases the likelihood that liability claims will succeed and reduces the scope for a "reasonable steps" defence.</p>
+
+        <h3>Critical Risk Failures Are Notifiable — Records Matter</h3>
+        <p>The new 24-hour notification requirement for critical risk failures means WorkSafe will have a database of control failures across NZ businesses. If a business has a prior notification on record and is subsequently involved in a third-party injury claim, that record will be discoverable and potentially admissible. Businesses with a pattern of notified failures will face higher premium assessments at renewal.</p>
+
+        <h3>Cover Limits Under Review</h3>
+        <p>Some insurers have already indicated that the Amendment Act will prompt a review of cover limits for high-risk trades. Businesses that currently hold $2M in public liability cover may find that their insurer recommends $5M from April 2027, particularly if they work in commercial environments or regularly enter client sites. It is advisable to speak with your insurer before the end of 2026 to confirm that your cover levels will remain appropriate under the new framework.</p>
+
+        <h2>Steps to Take Before April 2027</h2>
+        <ul>
+          <li><strong>Identify your critical risk activities</strong> — Review WorkSafe's guidance as it is published and map your operations against the critical risks list.</li>
+          <li><strong>Start building your critical risk register now</strong> — Even though the legal requirement is April 2027, early implementation reduces the risk of gaps at the commencement date.</li>
+          <li><strong>Review your insurance coverage</strong> — Confirm that your current public liability limit is appropriate for your risk profile under the new framework.</li>
+          <li><strong>Brief your officers</strong> — If your company has 20 or more employees, ensure your directors understand the annual certification obligation and what they will be signing off on.</li>
+          <li><strong>Review your contracts</strong> — Many commercial contracts require compliance with "applicable law." From April 2027, the Amendment Act's obligations will be applicable law. Non-compliance could void contract protections as well as affect insurance cover.</li>
+        </ul>
+
+        <h2>Conclusion</h2>
+        <p>The Health and Safety at Work Amendment Act 2026 is not just a procedural update — it marks a meaningful shift in how the law treats workplace risk management. For businesses in construction, trades, and any sector with hands-on physical work, the changes increase both the compliance burden and the potential liability exposure. Reviewing your public liability insurance now, before the April 2027 commencement, puts you in the best position to manage that exposure effectively.</p>
+    `,
+  },
+  {
+    slug: 'proportionate-liability-nz-construction',
+    title: 'Proportionate Liability Reform in NZ Construction: Insurance Implications',
+    excerpt:
+      'Changes to proportionate liability law expected by 2028 could significantly alter how construction claims are allocated. We explain the reform, who it affects, and what it means for your liability cover.',
+    date: '2026-07-28',
+    category: 'Regulation',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>New Zealand's construction and professional services sectors are watching closely as law reform bodies consider changes to the proportionate liability regime. While the anticipated legislative changes are currently expected to be implemented by 2028, the direction of reform is now sufficiently clear that businesses — and their insurers — are already adjusting how they assess liability risk.</p>
+
+        <h2>What Is Proportionate Liability?</h2>
+        <p>Proportionate liability is the principle that, in multi-party construction or professional services claims, each defendant should only be required to pay the share of loss that corresponds to their own degree of fault. Under a proportionate system, if a builder is 40% responsible for defective work and an engineer is 60% responsible, each pays their respective share — and neither is required to cover the other's portion if the other cannot pay.</p>
+        <p>This contrasts with joint and several liability, under which any one defendant can be required to pay the entire judgment, regardless of their individual fault share — and must then pursue the other defendants for contribution.</p>
+
+        <h2>How NZ Currently Works</h2>
+        <p>New Zealand has a hybrid system. Under the Construction Contracts Act and the general law of tort, joint and several liability still applies to many construction claims — particularly for building defects affecting third parties such as subsequent home purchasers. This means a principal contractor can be held liable for the full cost of a defect even where a subcontractor's work was the direct cause.</p>
+        <p>This creates a well-documented distortion: building companies price their services to reflect the risk of full liability, and many smaller subcontractors carry minimal insurance knowing that the principal will likely be left to fund any shortfall. The result is a market where insurance levels at the subcontractor tier are often inadequate.</p>
+
+        <h2>The Proposed Reform Direction</h2>
+        <p>The Law Commission and MBIE have both signalled interest in a more clearly proportionate regime for construction defect claims — aligned with the approach already in place in Australia under the proportionate liability provisions of various State-based building legislation. The likely reform elements include:</p>
+        <ul>
+          <li>Codified proportionate liability for concurrent wrongdoers in construction and property claims</li>
+          <li>Clearer rules for the allocation of fault shares where one defendant is insolvent or uninsured</li>
+          <li>Potential "innocent plaintiff" protections to ensure claimants with no fault are not left without remedy</li>
+          <li>Greater transparency obligations for builders and subcontractors regarding their individual insurance positions</li>
+        </ul>
+
+        <h2>Who Will This Affect Most?</h2>
+        <p>The reform will reshape liability exposure across the entire construction supply chain:</p>
+        <ul>
+          <li><strong>Principal contractors and developers</strong> — Currently exposed to full joint and several liability, they would benefit from reform by having their exposure capped at their proportionate fault share. However, they lose the ability to pass the full cost of a defect to the party most at fault.</li>
+          <li><strong>Subcontractors and specialist trades</strong> — Currently sheltered by the practical reality that principals absorb the majority of claims, subcontractors will face direct proportionate claims against their own insurance. This will increase premium assessments for many trades.</li>
+          <li><strong>Architects and engineers</strong> — Already subject to professional indemnity insurance obligations in many cases, they will face more precisely allocated liability claims where their fault share can be clearly established.</li>
+          <li><strong>Home buyers and property owners</strong> — The reform must ensure that claimants who have suffered genuine loss from building defects are not left without practical remedy because one responsible party is insolvent or uninsured.</li>
+        </ul>
+
+        <h2>What This Means for Public Liability Cover</h2>
+        <p>For most subcontractors and specialist trades, the coming reform is an argument for increasing cover limits sooner rather than later. Under a proportionate system:</p>
+        <ul>
+          <li>Claims will be routed directly to the party at fault rather than exclusively to the principal</li>
+          <li>Subcontractors will need cover that genuinely reflects their own work value and risk, not the reduced-probability scenario under joint and several</li>
+          <li>Insurers will review whether cover limits are adequate in light of the new direct exposure</li>
+        </ul>
+        <p>A plumbing subcontractor whose faulty work causes $400,000 of consequential damage to a residential development currently expects that claim to land primarily on the builder. Under a proportionate system, it may come directly to the plumber in proportion to their assessed fault. $1M or $2M cover may not be sufficient.</p>
+
+        <h2>Preparing for the Reform</h2>
+        <p>While 2028 is the expected implementation timeframe, the practical lead time for insurance review is now. Steps to consider:</p>
+        <ul>
+          <li>Review your current cover limit in light of the realistic direct exposure your work creates</li>
+          <li>Consider whether your contracts clearly allocate liability between you and your subcontractors or principals</li>
+          <li>Check whether your commercial contracts require specific insurance levels — many are already requiring $5M as a minimum for construction work</li>
+          <li>Monitor the Law Commission's published papers and MBIE consultation documents as the reform progresses</li>
+        </ul>
+
+        <h2>Conclusion</h2>
+        <p>Proportionate liability reform is coming to NZ construction — the question is timing, not direction. For the trade and construction sectors, the practical implication is straightforward: ensure your public liability cover reflects the direct exposure you carry, rather than the lower practical exposure created by the current joint and several system. Review your cover now.</p>
+    `,
+  },
+  {
+    slug: 'public-liability-insurance-cost-nz-2026',
+    title: 'How Much Does Public Liability Insurance Cost in 2026?',
+    excerpt:
+      'A practical guide to public liability insurance pricing in New Zealand in 2026, covering typical premiums by business type, the factors that affect cost, and how to get the best value cover.',
+    date: '2026-07-21',
+    category: 'Costs',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>Public liability insurance pricing in New Zealand varies significantly by industry, turnover, cover level, and claim history. In 2026, premium pressures from global reinsurance markets and two years of elevated construction claims have pushed some trade sector premiums up by 8–15% at renewal. At the same time, genuine competition among insurers is keeping costs accessible for low-risk businesses. Here is a practical overview of what to expect.</p>
+
+        <h2>Typical Annual Premiums by Business Type (2026)</h2>
+        <p>The following ranges are illustrative — your actual premium will depend on turnover, cover level, claim history, and the specific nature of your work:</p>
+
+        <table class="w-full border-collapse border border-slate-300 my-6 text-sm">
+          <thead>
+            <tr class="bg-slate-100">
+              <th class="border border-slate-300 p-3 text-left">Business Type</th>
+              <th class="border border-slate-300 p-3 text-left">Cover Level</th>
+              <th class="border border-slate-300 p-3 text-left">Typical Annual Premium</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="border border-slate-300 p-3">Home-based sole trader (consultant, tutor)</td>
+              <td class="border border-slate-300 p-3">$1M</td>
+              <td class="border border-slate-300 p-3">$350 – $600</td>
+            </tr>
+            <tr>
+              <td class="border border-slate-300 p-3">Cleaner or housekeeper</td>
+              <td class="border border-slate-300 p-3">$2M</td>
+              <td class="border border-slate-300 p-3">$600 – $1,000</td>
+            </tr>
+            <tr>
+              <td class="border border-slate-300 p-3">Personal trainer or fitness instructor</td>
+              <td class="border border-slate-300 p-3">$2M</td>
+              <td class="border border-slate-300 p-3">$500 – $900</td>
+            </tr>
+            <tr>
+              <td class="border border-slate-300 p-3">Cafe or small restaurant</td>
+              <td class="border border-slate-300 p-3">$2M</td>
+              <td class="border border-slate-300 p-3">$800 – $1,500</td>
+            </tr>
+            <tr>
+              <td class="border border-slate-300 p-3">Residential builder or plumber</td>
+              <td class="border border-slate-300 p-3">$2M</td>
+              <td class="border border-slate-300 p-3">$900 – $1,800</td>
+            </tr>
+            <tr>
+              <td class="border border-slate-300 p-3">Commercial builder or contractor</td>
+              <td class="border border-slate-300 p-3">$5M</td>
+              <td class="border border-slate-300 p-3">$1,500 – $3,500</td>
+            </tr>
+            <tr>
+              <td class="border border-slate-300 p-3">Scaffolding or roofing contractor</td>
+              <td class="border border-slate-300 p-3">$5M</td>
+              <td class="border border-slate-300 p-3">$2,000 – $5,000</td>
+            </tr>
+            <tr>
+              <td class="border border-slate-300 p-3">Event management company</td>
+              <td class="border border-slate-300 p-3">$10M</td>
+              <td class="border border-slate-300 p-3">$2,500 – $6,000</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h2>Key Factors That Affect Your Premium</h2>
+        <h3>1. Cover Level</h3>
+        <p>The most fundamental driver. Moving from $2M to $5M typically adds 30–60% to the premium, not double — insurers price the additional exposure as incrementally lower risk given the relatively low frequency of claims above $2M.</p>
+
+        <h3>2. Annual Turnover</h3>
+        <p>Premiums are almost always calculated as a function of turnover. A builder with $300,000 annual revenue will pay significantly less than one with $1.5M revenue, even with identical cover levels. Underestimating turnover at application and later having a higher actual turnover declared can void cover.</p>
+
+        <h3>3. Nature of Work</h3>
+        <p>High-hazard activities — work at height, asbestos management, demolition, underground utility work — attract loadings that can add 50–200% to the base premium. Insurers use detailed work type questionnaires to classify risk.</p>
+
+        <h3>4. Claims History</h3>
+        <p>A single significant claim within the past 5 years can trigger a 25–50% loading. Multiple claims may result in cover being declined by some insurers entirely. A clean 5-year record is your most valuable premium management tool.</p>
+
+        <h3>5. Geographic Location</h3>
+        <p>Auckland and Christchurch businesses generally pay slightly higher premiums reflecting higher property values and legal costs. Rural and regional businesses often benefit from lower rating.</p>
+
+        <h3>6. Excess Level</h3>
+        <p>Accepting a higher excess (for example, moving from a $500 excess to a $2,500 excess) typically produces a 10–25% premium reduction. This is a viable strategy for established businesses with a strong cash position and clean claims history.</p>
+
+        <h2>Why Premiums Have Increased in 2026</h2>
+        <p>Several factors have pushed trade and construction premiums higher entering 2026:</p>
+        <ul>
+          <li><strong>Reinsurance costs</strong> — Global reinsurance markets have hardened following a series of large catastrophe events internationally, and these costs flow through to primary premium pricing in NZ.</li>
+          <li><strong>Construction claim severity</strong> — The building and construction sector has seen elevated claim severity over the past two years, reflecting high material and labour costs when defect rectification work occurs.</li>
+          <li><strong>Regulatory changes</strong> — The Health and Safety at Work Amendment Act 2026 has heightened insurer awareness of risk in sectors with critical risk activities, prompting earlier-than-usual underwriting reviews at renewal.</li>
+        </ul>
+
+        <h2>How to Keep Costs Down</h2>
+        <ul>
+          <li><strong>Compare at every renewal</strong> — Don't accept an automatic rollover. A competing quote often produces a 10–20% saving even with identical cover levels.</li>
+          <li><strong>Bundle your covers</strong> — Many insurers offer a package discount when public liability is combined with tools cover, business interruption, or professional indemnity.</li>
+          <li><strong>Maintain a clean claims history</strong> — The single best long-term premium management strategy is to not claim for small incidents you can absorb. Retain your claims-free status.</li>
+          <li><strong>Review your turnover declaration</strong> — If your revenue has fallen, declare the correct current figure rather than defaulting to the previous year's declaration.</li>
+          <li><strong>Increase your excess</strong> — If you have a solid cash reserve, a higher excess in exchange for a lower premium is often an efficient trade-off.</li>
+        </ul>
+
+        <h2>Getting an Accurate Quote</h2>
+        <p>Online comparison services can provide indicative pricing quickly, but for businesses with higher turnover, complex work types, or prior claims, a direct conversation with a specialist insurer or insurance adviser is likely to produce better-tailored pricing. Be ready to provide your annual turnover, a description of your work activities, your claims history for the past 5 years, and the cover level you require.</p>
+    `,
+  },
+  {
+    slug: 'worksafe-critical-risks-framework-2027',
+    title: 'WorkSafe\'s Critical Risks Framework 2027: A Plain-English Guide for Business',
+    excerpt:
+      'From 1 April 2027, WorkSafe\'s critical risks framework changes how high-hazard work must be managed. This guide explains the framework in plain language and what businesses need to do before the commencement date.',
+    date: '2026-07-14',
+    category: 'Regulation',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>WorkSafe New Zealand is preparing the supporting regulations for the Health and Safety at Work Amendment Act 2026, which takes effect on 1 April 2027. Central to the new framework is the concept of "critical risks" — a designated set of activities where the consequences of a failure are severe enough to warrant mandatory, prescribed control measures rather than the general risk management approach that currently applies. This guide explains what the framework means in plain language.</p>
+
+        <h2>The Problem the Framework Is Solving</h2>
+        <p>Under the current HSWA, businesses are required to eliminate or minimise risks "so far as is reasonably practicable." This principle-based approach works well for lower-risk activities but creates ambiguity for high-hazard work. Different businesses apply widely varying standards to working at height or with hazardous substances — and when accidents occur, the question of what was "reasonably practicable" is often contested in court over years.</p>
+        <p>The critical risks framework replaces that ambiguity for designated high-hazard activities with clear, prescriptive minimum standards. If the standard says you must inspect safety harnesses daily, you inspect them daily. There is no room to argue that weekly inspection was "reasonably practicable."</p>
+
+        <h2>What Are "Critical Risks"?</h2>
+        <p>WorkSafe's indicative categories of critical risk activities include:</p>
+        <ul>
+          <li><strong>Working at height</strong> — Any work above 1.5 metres where a fall is possible, including on roofs, scaffolding, ladders, or elevated platforms.</li>
+          <li><strong>Confined space entry</strong> — Work inside tanks, tunnels, silos, pits, or other enclosed spaces where hazardous atmospheres may be present.</li>
+          <li><strong>Hazardous substances</strong> — Handling, storing, or disposing of substances classified as toxic, corrosive, flammable, or explosive under the Hazardous Substances and New Organisms Act.</li>
+          <li><strong>Mobile plant and machinery</strong> — Operation of forklifts, excavators, cranes, and other mobile plant in areas where workers or members of the public may be at risk.</li>
+          <li><strong>Electrical work</strong> — Live electrical work or work in proximity to exposed conductors.</li>
+          <li><strong>Excavation and trenching</strong> — Open excavations above a defined depth threshold.</li>
+          <li><strong>Proximity to traffic</strong> — Work on or adjacent to live road traffic lanes.</li>
+        </ul>
+
+        <h2>What Are the New Obligations?</h2>
+        <h3>Critical Risk Registers</h3>
+        <p>Every PCBU (business) with one or more critical risk activities must maintain a written critical risk register. The register must identify each critical risk, document the controls in place, assign responsibility for each control to a specific role, and record when controls are reviewed. The register must be updated annually and after any incident involving a critical risk.</p>
+
+        <h3>Prescribed Minimum Controls</h3>
+        <p>For each category of critical risk, WorkSafe will publish a prescribed minimum control standard. These standards will specify, for example, the minimum rated capacity for fall arrest equipment, the atmospheric testing requirements before confined space entry, and the exclusion zone dimensions around mobile plant. Compliance with the prescribed standard is mandatory — not a safe harbour, but a floor.</p>
+
+        <h3>Officer Certification</h3>
+        <p>Companies with 20 or more employees must have at least one officer (director or equivalent) certify annually in writing that the company's critical risk register is accurate and that the prescribed controls are being applied. This is a significant change: it places personal accountability on directors for the operational reality of the safety management system, not just its existence on paper.</p>
+
+        <h3>Notifiable Critical Risk Failures</h3>
+        <p>A failure of any prescribed control — for example, allowing work at height to proceed without the required fall arrest equipment in place — must be notified to WorkSafe within 24 hours, even if no injury or near-miss results. This is separate from the existing obligation to notify WorkSafe of serious harm incidents. It creates an audit trail of compliance failures that WorkSafe can use in enforcement decisions and that will become relevant in litigation.</p>
+
+        <h2>How This Affects Public Liability Insurance</h2>
+        <p>The critical risks framework raises the bar for what "reasonable precautions" looks like in a negligence claim. Post-April 2027, a claimant's lawyer establishing that a business failed to comply with a prescribed minimum control standard will have a powerful tool for demonstrating negligence — because WorkSafe has literally prescribed what the minimum standard is.</p>
+        <p>This increases the importance of maintaining public liability cover that is commensurate with the actual exposure you carry from your critical risk activities. If your work involves regular working at height, confined space entry, or mobile plant operation, review your cover limit with this in mind.</p>
+
+        <h2>Practical Steps Before April 2027</h2>
+        <ul>
+          <li>Identify which of your activities are likely to be designated as critical risks</li>
+          <li>Begin building your critical risk register now using WorkSafe's draft guidance</li>
+          <li>Review your existing controls against the draft prescribed minimum standards</li>
+          <li>Identify any gaps and budget for closing them before the commencement date</li>
+          <li>Brief your directors or senior leadership on the officer certification obligation</li>
+          <li>Review your public liability insurance limit in light of your critical risk profile</li>
+          <li>Establish a process for notifying WorkSafe of control failures within 24 hours</li>
+        </ul>
+
+        <p>WorkSafe's website at <a href="https://worksafe.govt.nz" target="_blank" rel="noopener noreferrer">worksafe.govt.nz</a> will publish draft regulations and guidance for public consultation before the April 2027 commencement. Monitoring these updates is the best way to stay ahead of the compliance curve.</p>
+    `,
+  },
+  {
+    slug: 'working-from-home-public-liability',
+    title: 'Working from Home and Public Liability Insurance: What\'s Covered?',
+    excerpt:
+      'With around 30% of NZ workers working from home at least part of the time, understanding when your public liability insurance applies — and when it doesn\'t — is essential for home-based businesses and remote workers.',
+    date: '2026-07-07',
+    category: 'Business',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>Working from home is now a mainstream feature of New Zealand's employment and business landscape. Approximately 30% of NZ workers work remotely at least part of the time, and home-based sole traders and businesses form a significant and growing segment of the economy. But the shift from office to home has created genuine uncertainty around insurance — particularly public liability cover. Who is covered when, and for what?</p>
+
+        <h2>Does Standard Public Liability Cover Home-Based Businesses?</h2>
+        <p>Yes — but the specifics matter. A business public liability policy covers legal liability for injury or property damage to third parties arising from your business activities. If you operate from home, your business policy should cover incidents that arise from your business operations, regardless of whether they occur at your home office or at a client's site.</p>
+        <p>However, most standard policies have specific conditions or exclusions relating to home-based operations. The most common:</p>
+        <ul>
+          <li>The policy may require you to disclose that your principal place of business is your home — and if you fail to disclose this, a claim could be declined.</li>
+          <li>Damage to your own property (your home) is almost always excluded — it falls under house insurance, not public liability.</li>
+          <li>Injuries to employees working at your home may be covered under employers' liability (a separate section of many business policies) rather than public liability.</li>
+        </ul>
+
+        <h2>When a Client Visits Your Home</h2>
+        <p>This is a scenario that often surprises home-based business owners. If a client comes to your home for a meeting and is injured — slips on your driveway, trips on your stairs, is bitten by your dog — your public liability policy should respond, provided the visit is clearly connected to your business activity.</p>
+        <p>However, your home and contents insurance may also have a guest liability provision, and there can be ambiguity about which policy responds first. The safest approach is to:</p>
+        <ul>
+          <li>Ensure your business public liability policy explicitly covers third-party visits to your home premises</li>
+          <li>Inform your home insurer that you conduct business from home (failure to disclose this could affect your home insurance as well)</li>
+          <li>Check whether your home insurer's liability coverage excludes business-related incidents (many do)</li>
+        </ul>
+
+        <h2>The Grey Zone: Home and Business Liability Overlap</h2>
+        <p>Consider this scenario: you run a tutoring business from a dedicated room in your home. A student's parent slips on your front path on the way to pick up their child. Is this a home liability claim or a business claim?</p>
+        <p>In most cases, a business policy will respond because the visit was commercially motivated. But if your home insurer's policy excludes business-related incidents, and your business insurer requires you to show the incident arose from a specific business activity, there is a potential gap. The solution is straightforward: speak with your insurer and get explicit written confirmation that home-based client visits are covered under your business policy.</p>
+
+        <h2>When You Are Working Remotely for an Employer</h2>
+        <p>If you are an employee working from home rather than a self-employed person, your employer's public liability insurance is almost certainly not extended to cover incidents at your home. The employer's policy covers the employer's business premises and business activities — your spare bedroom is not a business premises in the policy's terms.</p>
+        <p>Practically speaking, this matters most in two scenarios:</p>
+        <ul>
+          <li>A colleague or work visitor comes to your home and is injured — their claim would likely fall under your own home contents liability cover, not your employer's business policy.</li>
+          <li>You cause injury or damage to a third party while conducting work from home — the employer's policy may respond if the incident is clearly in the course of employment, but this is not guaranteed.</li>
+        </ul>
+        <p>Employers who have employees working from home regularly should review their business insurance arrangements to confirm the position and should document their policy for employees.</p>
+
+        <h2>Do You Need a Separate Home Office Insurance Policy?</h2>
+        <p>Some insurers offer specific "home office" or "business in home" extensions that clarify the coverage position. These are worth considering if:</p>
+        <ul>
+          <li>You regularly receive clients or deliveries at your home</li>
+          <li>You have employees working at your home, even occasionally</li>
+          <li>Your work involves equipment, stock, or hazardous materials stored at home</li>
+          <li>Your home-based work generates meaningful revenue (typically over $30,000 per year)</li>
+        </ul>
+
+        <h2>Key Questions to Ask Your Insurer</h2>
+        <ul>
+          <li>Does my business public liability policy cover incidents at my home address?</li>
+          <li>Am I required to disclose that my principal place of business is a residential property?</li>
+          <li>Does the policy cover third-party injuries during client visits to my home?</li>
+          <li>Is there any exclusion for incidents on residential property?</li>
+          <li>Does my home insurance exclude business-related liability incidents?</li>
+        </ul>
+        <p>Getting clear answers to these questions in writing ensures that if an incident does occur, there is no ambiguity about which policy responds.</p>
+
+        <h2>Conclusion</h2>
+        <p>Working from home does not automatically create an insurance gap — but it does require you to check that your coverage reflects where and how you actually operate. If you have not reviewed your business and home insurance since your working arrangements changed, now is the right time to do so.</p>
+    `,
+  },
+  {
+    slug: 'event-management-public-liability-guide',
+    title: 'Event Management and Public Liability Insurance: The Complete Guide',
+    excerpt:
+      'From intimate corporate functions to large outdoor festivals, event organisers face unique public liability exposures. This guide covers what cover is needed, common claims, and how to manage event risk effectively.',
+    date: '2026-06-30',
+    category: 'Industry',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>Event management is one of the higher-risk categories for public liability insurance. Events bring together large numbers of people, often in temporary or unfamiliar environments, with complex supply chains of vendors, contractors, and performers. A single incident — a stage collapse, a food poisoning outbreak, a slip on wet flooring — can generate claims that run into the millions. This guide covers everything event organisers need to know about public liability insurance.</p>
+
+        <h2>Why Events Are High Risk</h2>
+        <p>Several characteristics of events create heightened liability exposure compared to standard business operations:</p>
+        <ul>
+          <li><strong>High footfall</strong> — More people in a venue means more opportunities for injury, and more potential claimants in a single incident.</li>
+          <li><strong>Temporary infrastructure</strong> — Stages, tents, seating systems, and portable facilities are often sourced from multiple contractors and erected by workers unfamiliar with the specific site.</li>
+          <li><strong>Multiple contractors</strong> — Events typically involve many vendors (catering, security, audio-visual, staging) whose activities the event organiser must coordinate but may not directly control.</li>
+          <li><strong>Alcohol service</strong> — Alcohol-related incidents are a significant source of claims at licensed events, and the event organiser's duty of care extends to the conduct of intoxicated guests.</li>
+          <li><strong>Weather and environmental factors</strong> — Outdoor events face risks from unexpected weather, ground conditions, and environmental hazards that fixed venue operators typically do not.</li>
+        </ul>
+
+        <h2>What Cover Limits Do Event Organisers Need?</h2>
+        <p>Cover requirements depend significantly on event size and type:</p>
+        <ul>
+          <li><strong>Small corporate or private functions (under 100 guests)</strong> — $2M–$5M is typically adequate for indoor events at established venues. The venue's own policy may respond first for venue-specific incidents, but the organiser still needs independent cover.</li>
+          <li><strong>Medium events (100–500 guests, outdoor or temporary venue)</strong> — $5M–$10M is the standard expectation. At this scale, a single serious injury incident affecting multiple people could approach $5M in aggregate claims.</li>
+          <li><strong>Large events (500+ guests, festivals, concerts)</strong> — $10M–$20M. Auckland Council and Wellington City Council both require $10M as a minimum for events on public land. Larger festivals typically carry $20M.</li>
+        </ul>
+
+        <h2>Key Inclusions to Check</h2>
+        <p>Not all public liability policies cover the full range of event risks. When purchasing event cover, confirm the following inclusions:</p>
+        <ul>
+          <li><strong>Products liability</strong> — Covers injury or illness caused by food or beverages sold or served at the event.</li>
+          <li><strong>Liquor liability</strong> — Covers incidents arising from the service of alcohol, including injury caused by intoxicated guests. Some policies exclude this without specific endorsement.</li>
+          <li><strong>Hired equipment</strong> — Covers damage to hired staging, audio-visual equipment, or furniture. Often covered under a separate equipment floater rather than PLI.</li>
+          <li><strong>Independent contractors</strong> — Ensures the policy covers your liability arising from the actions of your subcontractors (caterers, security, staging crews) during the event.</li>
+          <li><strong>Vendor/exhibitor liability</strong> — If your event includes market stalls or exhibitors, the policy should clarify whether their activity falls within your cover or whether they need independent cover (usually the latter).</li>
+        </ul>
+
+        <h2>Common Claims in Event Management</h2>
+        <h3>Slip and Fall</h3>
+        <p>The most common claim type. Wet floors, uneven ground, cables crossing pathways, and crowd pressure in queuing areas all create slip and fall risks. A simple fall resulting in a fractured hip can generate a claim of $200,000–$600,000 when medical costs, rehabilitation, and lost income are included.</p>
+
+        <h3>Food Poisoning</h3>
+        <p>A food poisoning outbreak at a large event can affect dozens or hundreds of guests simultaneously, each with a potential claim. Where the catering contractor is responsible, the organiser's policy typically responds first and then seeks recovery from the caterer. Ensure your catering contracts require caterers to carry their own PLI and products liability cover, naming you as an additional insured.</p>
+
+        <h3>Structural Failure</h3>
+        <p>Stage collapses, tent failures, and temporary seating failures are statistically rare but result in catastrophic claims when they occur. Thorough inspection of all temporary structures before and during events is the primary risk management tool — insurance responds to residual risk, not foreseeable failures you could have identified.</p>
+
+        <h3>Security Incidents</h3>
+        <p>An event organiser can be held liable for foreseeable security incidents if they have failed to take adequate precautions — particularly at events where the crowd profile or specific threats were known in advance. Security incidents are both physically dangerous and increasingly litigation-prone.</p>
+
+        <h2>Risk Management: What Reduces Your Premium and Your Exposure</h2>
+        <ul>
+          <li><strong>Venue inspection reports</strong> — Document hazards and remediation before the event. This is essential for outdoor sites.</li>
+          <li><strong>Vendor contracts</strong> — Require all vendors and contractors to hold their own PLI and name your event as an additional insured. Collect evidence of this before the event.</li>
+          <li><strong>Safety plans</strong> — A documented event safety plan significantly strengthens your position if a claim arises, demonstrating that you took reasonable precautions.</li>
+          <li><strong>Security briefings</strong> — Document that your security team received written instructions including alcohol management protocols.</li>
+          <li><strong>Weather monitoring</strong> — For outdoor events, document weather checks and your decision-making process if conditions change during the event.</li>
+        </ul>
+
+        <h2>Event-Specific vs. Annual Policy</h2>
+        <p>If you organise events regularly, an annual event organiser's policy is almost always better value than purchasing per-event cover. Annual policies also remove the risk of forgetting to purchase cover for a specific event. If you organise only one or two events per year, per-event cover may be more cost-effective — but check carefully that the policy covers the lead-up period (when setup and bump-in occurs) as well as the event itself and the pack-down period after.</p>
+
+        <h2>Conclusion</h2>
+        <p>Event management is one of the most rewarding but genuinely high-risk sectors for public liability exposure. The combination of large public gatherings, temporary infrastructure, multiple contractors, and often alcohol service creates a liability environment that demands adequate cover levels and thorough risk management. Get a quote tailored to your event profile and ensure the policy inclusions specifically address the risks your events carry.</p>
+    `,
+  },
+  {
+    slug: 'professional-indemnity-mandatory-architects-engineers-2026',
+    title: 'Professional Indemnity Now Mandatory for Architects and Engineers in NZ',
+    excerpt:
+      'Changes to registration requirements in 2026 have made professional indemnity insurance compulsory for licensed architects and registered engineers in New Zealand. Here\'s what it means and how PLI fits alongside PI cover.',
+    date: '2026-06-23',
+    category: 'Industry',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>From mid-2026, professional indemnity (PI) insurance is compulsory for all licensed building practitioners in the architect and structural engineer categories under tightened registration requirements administered by the Building Practitioners Board and Engineering New Zealand. This formalises what was previously a strong professional recommendation into a mandatory registration condition.</p>
+
+        <h2>What Has Changed?</h2>
+        <p>The Building Practitioners Board amended its licensing conditions in early 2026 to require that all licensed architects and designers maintain a minimum level of professional indemnity insurance as a condition of licence renewal. Engineering New Zealand has implemented a parallel requirement for chartered members providing structural, civil, and geotechnical engineering services where their advice directly affects the structural adequacy of buildings or infrastructure.</p>
+        <p>The minimum PI cover requirements vary by practice size but start at $500,000 per claim for sole practitioners and increase to $2M or more for larger firms. Practitioners must provide evidence of current PI cover at each annual licence renewal.</p>
+
+        <h2>How Is PI Different from Public Liability?</h2>
+        <p>This is a question many practitioners and their clients ask. The two types of cover are related but distinct:</p>
+        <ul>
+          <li><strong>Professional indemnity insurance</strong> covers claims arising from errors, omissions, or negligent advice in the professional services you provide. If an architect specifies the wrong product and it causes building defects, or an engineer makes a calculation error that results in structural failure, PI responds.</li>
+          <li><strong>Public liability insurance</strong> covers claims for physical injury to people or property damage caused by your business activities — not the quality of your professional advice. If a client trips over your equipment at a site visit, or a faulty product you supplied causes damage, PLI responds.</li>
+        </ul>
+        <p>Both covers are needed. They are complementary, not interchangeable.</p>
+
+        <h2>Why the Change?</h2>
+        <p>The Building Practitioners Board identified a pattern of claims, particularly in the leaky building and weathertightness space, where professional fault was established but the practitioner had no PI insurance. Claimants — often homeowners with significant remediation costs — were left without practical recovery despite winning their case. Making PI mandatory ensures that professional liability can be met from insurance when it is established.</p>
+
+        <h2>The Implications for Public Liability Cover</h2>
+        <p>The mandatory PI requirement does not reduce the need for separate public liability cover — it confirms that both are necessary. Architects and engineers visiting construction sites, attending client meetings, or supervising work face the same third-party injury and property damage risks as any other contractor. Those risks are not covered by PI insurance.</p>
+        <p>For architects and engineers operating as sole practitioners or in small firms, a combined business insurance package covering both PI and PLI is typically the most efficient and cost-effective solution. The PLI component should be at least $2M — $5M if you regularly visit commercial construction sites.</p>
+
+        <h2>What to Check in Your Current PI Policy</h2>
+        <ul>
+          <li>Does the policy meet the minimum limit required by the Building Practitioners Board or Engineering New Zealand for your registration category?</li>
+          <li>Does the cover apply on a "claims made" basis (standard for PI) — and is your retroactive date early enough to cover historical work?</li>
+          <li>Does the policy cover your specific work types, including any specialist services like heritage buildings, seismic assessment, or high-density residential?</li>
+          <li>Is your PLI cover separate from your PI cover, and does it reflect the physical environments you work in?</li>
+        </ul>
+
+        <h2>Conclusion</h2>
+        <p>The formalisation of mandatory PI requirements for architects and registered engineers reflects a broader trend toward greater accountability in the NZ building and construction sector. If you are a licensed professional in this space, confirm that your PI cover meets the new minimum requirements and that you also have adequate public liability cover for your physical business activities. The two covers work together to give you comprehensive protection.</p>
+    `,
+  },
+  {
+    slug: 'home-warranties-mandatory-nz-builders',
+    title: 'Home Warranties and Builder Accountability: What NZ Builders Need to Know',
+    excerpt:
+      'New Zealand continues to strengthen consumer protections in residential construction following the leaky building era. Here\'s a practical guide to what\'s required, what\'s coming, and how insurance fits into the picture.',
+    date: '2026-06-16',
+    category: 'Industry',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>New Zealand's residential construction sector has operated under a stronger consumer protection framework since the introduction of the Building (Consumer Protection) Amendment Act 2015, which among other things strengthened implied warranties on new residential building work. Debate about whether to introduce mandatory home completion warranties — similar to Australia's Home Warranty Insurance Indemnity scheme — has intensified in recent years, with advocates pointing to the ongoing remediation costs from the leaky building era as evidence that the current framework is insufficient.</p>
+
+        <h2>What Are Home Warranties?</h2>
+        <p>A home warranty (also called a structural warranty or builder's warranty) is an insurance-backed guarantee that covers a homeowner against specified defects in new construction for a defined period. Typically:</p>
+        <ul>
+          <li>2-year warranty covering defects in workmanship and materials (shorter-term defects)</li>
+          <li>10-year structural warranty covering major structural defects</li>
+        </ul>
+        <p>In Australia, home warranty insurance is mandatory in most states for residential building work above $20,000. The policy pays out if the builder becomes insolvent, dies, disappears, or loses their licence — situations where the homeowner cannot pursue the builder directly.</p>
+
+        <h2>Where New Zealand Currently Stands</h2>
+        <p>Home warranty insurance is not currently mandatory in New Zealand. Residential building contracts must include certain implied warranties under the Building Act (covering compliance with the Building Code, fitness for purpose, and durability) but these warranties run against the builder personally. If the builder becomes insolvent — the most common scenario in major defect situations — the homeowner's warranty claim is unsecured and typically worthless.</p>
+        <p>MBIE has conducted consultations on mandatory home warranty requirements. As of mid-2026, no legislation has been introduced, but the policy pressure for change is significant and the topic is likely to return to the legislative agenda within the next 2–3 years.</p>
+
+        <h2>Why Home Warranties Complement, But Don't Replace, Public Liability</h2>
+        <p>Home warranties and public liability insurance are different products serving different purposes:</p>
+        <ul>
+          <li><strong>Home warranty</strong> — An insurance product held for the homeowner's benefit. It responds when the builder cannot — because they are insolvent, have lost their licence, or cannot be contacted. It covers the homeowner's cost of remediation.</li>
+          <li><strong>Public liability insurance</strong> — An insurance product held for the builder's benefit. It responds when the builder causes injury or property damage to third parties during construction, or when defects in the builder's work cause damage to adjacent or adjoining property.</li>
+        </ul>
+        <p>A builder could have both — and should. PLI is not optional (it is required by most commercial contracts and many residential clients) whereas home warranty insurance is currently optional in NZ, though this may change.</p>
+
+        <h2>Current Best Practice for Builders</h2>
+        <p>While mandatory home warranties are not yet required, prudent residential builders adopt the following practices:</p>
+        <ul>
+          <li><strong>Public liability insurance at $2M minimum</strong> — For residential work. Increase to $5M for any project with a contract value above $500,000 or where the scope includes significant demolition or work adjacent to existing structures.</li>
+          <li><strong>Contractual warranties aligned with Building Act obligations</strong> — Ensure your contracts document the implied warranties, don't try to exclude them, and set out the process for defect notification and remediation.</li>
+          <li><strong>Consider voluntary structural warranty products</strong> — A small number of NZ insurers and warranty providers offer voluntary 10-year structural warranties that builders can purchase for their clients. These are a genuine competitive advantage in the residential market and build client confidence.</li>
+          <li><strong>Maintain records</strong> — Comprehensive build records, including specification sheets, inspection records, and subcontractor documentation, are your primary defence in a defect claim and are essential for any future warranty scheme participation.</li>
+        </ul>
+
+        <h2>What to Expect in the Next 3 Years</h2>
+        <p>Based on the current direction of policy development, the most likely trajectory is:</p>
+        <ul>
+          <li>MBIE will produce a further consultation paper on mandatory home warranty insurance in 2026–2027</li>
+          <li>If legislation is introduced, it is likely to follow the Australian model — mandatory for residential work above a threshold, with the warranty product available from private insurers</li>
+          <li>The Building Practitioners Board licensing framework may be updated to require PI and/or warranty cover as a condition of licence</li>
+        </ul>
+        <p>Builders who already hold voluntary warranty products and strong PLI cover will be well positioned to adapt to any new mandatory requirement with minimal disruption.</p>
+
+        <h2>Conclusion</h2>
+        <p>The direction of travel in NZ residential construction is toward greater builder accountability and stronger consumer protection. Whether mandatory home warranties are introduced in the next 2–3 years or not, maintaining comprehensive public liability cover and adopting voluntary best practices now puts NZ builders in the strongest position — both commercially and legally.</p>
+    `,
+  },
 ];

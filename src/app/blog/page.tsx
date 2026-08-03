@@ -5,6 +5,9 @@ import { blogPosts } from '@/data/blog-posts';
 export const metadata: Metadata = {
   title: 'Public Liability Insurance Blog | NZ Insurance Articles | Cover4You',
   description: 'Expert articles and guides on public liability insurance in New Zealand. Learn about coverage, claims, industry-specific requirements, and more.',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/blog/',
+  },
   openGraph: {
     title: 'Public Liability Insurance Blog',
     description: 'Read expert articles on public liability insurance for NZ businesses.',

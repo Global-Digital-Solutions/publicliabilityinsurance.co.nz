@@ -5,6 +5,9 @@ import CTABanner from '@/components/CTABanner';
 
 export const metadata: Metadata = {
   title: 'Public Liability Insurance for Events & Venues | NZ Concerts, Sports, Markets',
+  alternates: {
+    canonical: 'https://www.publicliabilityinsurance.co.nz/sectors/public-venues/',
+  },
   description:
     'Essential public liability insurance for concert venues, sports grounds, community halls, markets, and adventure recreation providers in NZ. Event-specific coverage.',
   openGraph: {
