@@ -48,6 +48,18 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="h-full antialiased scroll-smooth">
+      <head>
+        {/* Google tag (gtag.js) – GA4 */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-GL9FXXZSEJ" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-GL9FXXZSEJ');`,
+          }}
+        />
+      </head>
       <body className="min-h-full flex flex-col bg-white text-slate-900 font-sans">
         <Header />
         <main className="flex-1">{children}</main>
