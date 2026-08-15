@@ -903,4 +903,171 @@ export const blogPosts: BlogPost[] = [
         <p>The direction of travel in NZ residential construction is toward greater builder accountability and stronger consumer protection. Whether mandatory home warranties are introduced in the next 2–3 years or not, maintaining comprehensive public liability cover and adopting voluntary best practices now puts NZ builders in the strongest position — both commercially and legally.</p>
     `,
   },
+  {
+    slug: 'worksafe-enforcement-policy-update-2026',
+    image: 'https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&w=1200&q=80',
+    title: "WorkSafe's Updated Enforcement Policies: Formal Warnings, Enforceable Undertakings and What They Mean for Your Business",
+    excerpt:
+      'WorkSafe now has to actively consider alternatives before recommending prosecution. Here is what formal warnings and pre-charge enforceable undertakings mean for business owners',
+    date: '2026-08-15',
+    category: 'Regulation',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>WorkSafe confirmed updated enforcement policies in February 2026 that change how the regulator responds when an investigation finds a health and safety breach. The headline change is a clear expectation that WorkSafe actively considers alternatives before recommending prosecution — and two of those alternatives, formal warnings and pre-charge enforceable undertakings, now sit much earlier in the enforcement pathway than they used to.</p>
+        <p>For business owners this is not a softening of the rules. The duties under the Health and Safety at Work Act 2015 are unchanged, and the maximum penalties are unchanged. What has changed is the range of outcomes available after an incident, and how much your own conduct in the weeks following an incident influences which outcome you get.</p>
+
+        <h2>What Actually Changed</h2>
+        <p>Historically, WorkSafe operated with a narrow set of enforcement tools. Where an investigation found a serious breach, prosecution was often the default. The updated policies formalise a graduated approach with several intermediate steps.</p>
+        <table>
+          <thead>
+            <tr><th>Enforcement tool</th><th>When it applies</th><th>Practical effect</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Improvement notice</td><td>A contravention is occurring or likely to recur</td><td>Fix the issue by a stated date; no penalty if complied with</td></tr>
+            <tr><td>Prohibition notice</td><td>Immediate risk of serious harm</td><td>Work stops until the risk is controlled</td></tr>
+            <tr><td>Formal warning</td><td>Investigation finds compliance concerns but prosecution is not in the public interest</td><td>Written warning on record; no conviction, no fine</td></tr>
+            <tr><td>Pre-charge enforceable undertaking</td><td>Duty holder accepts responsibility and proposes remedial commitments before charges are laid</td><td>Legally binding programme of work; charges not filed if delivered</td></tr>
+            <tr><td>Prosecution</td><td>Negligent or significant disregard, repeated non-compliance, or serious harm requiring deterrence</td><td>Conviction, fine, reparation, adverse publicity</td></tr>
+          </tbody>
+        </table>
+        <p>Enforceable undertakings are voluntary to enter into but legally binding once accepted. They typically commit a business to a package of measures — systems improvements, independent audits, industry-wide safety initiatives, and payments to the injured person — that go well beyond what a fine alone would deliver.</p>
+
+        <h2>Why This Matters for Liability Exposure</h2>
+        <p>The important point for anyone reviewing their insurance is that none of these enforcement outcomes remove your civil exposure. A formal warning or an enforceable undertaking resolves the regulatory question. It does not resolve a claim from a member of the public who was injured, or from a neighbouring property owner whose building was damaged.</p>
+        <p>Those two exposures run on separate tracks:</p>
+        <ul>
+          <li><strong>Regulatory track</strong> — WorkSafe investigation, notices, warnings, undertakings or prosecution. Fines under the Health and Safety at Work Act cannot be insured. Reparation orders and legal defence costs can often be covered under a statutory liability policy.</li>
+          <li><strong>Civil track</strong> — Claims by third parties for property damage or, in limited circumstances, loss outside the ACC bar. This is what public liability insurance responds to.</li>
+        </ul>
+        <p>An incident that triggers a WorkSafe investigation frequently triggers a third party claim as well. A scaffold collapse injures a passer-by and damages a parked vehicle. A hot works job causes a fire that spreads to the adjoining tenancy. In each case the regulator and the claimant arrive at roughly the same time, and you need both covers working together. Our <a href="/coverage/">coverage guide</a> sets out where the boundaries between the two sit.</p>
+
+        <h2>How Your Post-Incident Conduct Now Affects the Outcome</h2>
+        <p>Because WorkSafe must now consider alternatives before recommending prosecution, what a business does in the first weeks after an incident carries more weight than it used to. The factors that push an outcome toward a warning or an undertaking rather than a charge are broadly:</p>
+        <ul>
+          <li>Prompt notification of the notifiable event — within the required timeframe, not after a follow-up call from an inspector</li>
+          <li>The scene preserved and records produced without delay or dispute</li>
+          <li>Acceptance of responsibility rather than early defensive positioning</li>
+          <li>A documented remedial plan already underway before the investigation concludes</li>
+          <li>No pattern of prior non-compliance or ignored notices</li>
+        </ul>
+        <p>Conversely, prosecution remains very likely where there has been repeated non-compliance, where negligence contributed to the event, or where someone died. Those thresholds have not moved.</p>
+
+        <h3>The Insurance Notification Trap</h3>
+        <p>There is a tension worth flagging. Most liability policies require you to notify the insurer of any circumstance likely to give rise to a claim, and most also contain a condition prohibiting you from admitting liability without the insurer's consent. Meanwhile the enforcement framework rewards businesses that accept responsibility early.</p>
+        <p>These are reconcilable, but not by accident. Cooperating fully with WorkSafe, notifying an event, and fixing the underlying hazard are not admissions of civil liability. Signing a statement that characterises your conduct in legal terms may be. The practical rule is to notify your broker on the same day you notify WorkSafe, and take advice before signing anything that goes beyond the factual account of what happened.</p>
+
+        <h2>A Post-Incident Checklist</h2>
+        <table>
+          <thead>
+            <tr><th>Timing</th><th>Action</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Immediately</td><td>Make the area safe; provide first aid; do not disturb the scene beyond what safety requires</td></tr>
+            <tr><td>Same day</td><td>Notify WorkSafe if the event is notifiable; notify your broker or insurer; start a written timeline</td></tr>
+            <tr><td>Within 48 hours</td><td>Secure records — training logs, plant maintenance, SWMS, site inductions, subcontractor agreements, photographs</td></tr>
+            <tr><td>Within a week</td><td>Complete an internal review; document the corrective actions and the dates they were implemented</td></tr>
+            <tr><td>Ongoing</td><td>Take advice before signing statements; keep the broker updated as the investigation develops</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Cover Levels Worth Reviewing</h2>
+        <p>Businesses in higher-consequence sectors should treat the enforcement update as a prompt to check two things: whether the public liability limit still matches the worst realistic outcome of the work being done, and whether statutory liability cover is in place at all. Statutory liability is frequently absent from packages sold on price alone, and it is the section that funds legal representation during a WorkSafe investigation.</p>
+        <table>
+          <thead>
+            <tr><th>Business type</th><th>Common PLI limit</th><th>Statutory liability worth carrying</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Sole trader, low-risk services</td><td>$1M</td><td>$500k</td></tr>
+            <tr><td>Trade contractor, residential</td><td>$2M</td><td>$1M</td></tr>
+            <tr><td>Commercial construction or civil</td><td>$5M–$10M</td><td>$1M–$2M</td></tr>
+            <tr><td>Manufacturing, plant-heavy operations</td><td>$5M–$20M</td><td>$2M</td></tr>
+            <tr><td>Events, hospitality, high public footfall</td><td>$2M–$5M</td><td>$1M</td></tr>
+          </tbody>
+        </table>
+
+        <h2>Next Steps</h2>
+        <p>Read the updated enforcement policies on the WorkSafe website so you understand the criteria the regulator applies, then check your own policy schedule for a statutory liability section and its limit. If the schedule shows public liability only, or a limit set years ago when the business was smaller, it is worth revisiting.</p>
+        <p><a href="/contact/">Get a Quote</a> and one of our referred advisers will review your current limits against the work you actually do, and confirm whether your programme covers both the regulatory and the civil side of an incident.</p>
+    `,
+  },
+  {
+    slug: 'food-truck-market-stall-public-liability',
+    image: 'https://images.unsplash.com/photo-1565123409695-7b5ef63a2efb?auto=format&fit=crop&w=1200&q=80',
+    title: 'Public Liability Insurance for Food Trucks and Market Stalls: What Councils and Event Organisers Require',
+    excerpt:
+      'Most market organisers will not accept a stallholder without proof of public liability cover, and councils commonly ask for it as a trading licence condition. Here are the limits and covers that matter',
+    date: '2026-08-15',
+    category: 'Business',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>Most market organisers will not confirm a site for a stallholder who cannot produce a certificate of currency for public liability insurance, and a growing number of councils list it as a condition of a mobile trading licence. For anyone running a food truck, coffee cart, or weekend market stall, the insurance requirement is not a nice-to-have — it is usually the last box to tick before you can trade.</p>
+        <p>The complication is that a mobile food business does not fit neatly into a single policy. A truck parked at a Saturday market is simultaneously a vehicle, a commercial kitchen, a retail counter, and a temporary structure erected in a public place. Each of those roles carries a different exposure, and a single public liability policy does not answer all of them.</p>
+
+        <h2>What Organisers and Councils Actually Ask For</h2>
+        <p>Requirements vary by council and by event, but the pattern is consistent enough to plan around.</p>
+        <table>
+          <thead>
+            <tr><th>Setting</th><th>Typical minimum limit</th><th>Also commonly required</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Weekend farmers market or craft market</td><td>$1M</td><td>Food Control Plan or National Programme registration</td></tr>
+            <tr><td>Larger ticketed festivals and food events</td><td>$2M</td><td>Certificate naming the organiser as an interested party</td></tr>
+            <tr><td>Council-owned land or road reserve trading</td><td>$2M</td><td>Mobile trading licence, site plan, waste plan</td></tr>
+            <tr><td>Community sporting events</td><td>$2M</td><td>Organiser event permit reference</td></tr>
+            <tr><td>Sports stadiums, airports, major venues</td><td>$5M</td><td>Indemnity to principal, sometimes waiver of subrogation</td></tr>
+          </tbody>
+        </table>
+        <p>Two details catch people out. The first is the request to name the organiser or the venue as an interested party or to extend indemnity to the principal — that is a policy endorsement, not something you can add to a certificate yourself, and it usually takes a few days to arrange. The second is that a certificate of currency has an expiry date on it; organisers check, and an expired certificate means no site.</p>
+
+        <h3>Start Earlier Than You Think</h3>
+        <p>Insurers commonly want detail about menu, cooking method, gas usage, and expected patron numbers before quoting a mobile food risk. Allow at least four weeks before your first booked event, and longer if you are applying for a season-long licence. Applications lodged the week of an event routinely miss the deadline.</p>
+
+        <h2>The Covers a Mobile Food Business Needs</h2>
+        <p>Public liability is the core, but it is rarely sufficient on its own. The full picture typically looks like this:</p>
+        <ul>
+          <li><strong>Public liability</strong> — Injury to a customer or damage to third party property arising from your operation. Covers the classic scenarios: a customer trips on your power lead, your awning damages a parked car, hot oil spills onto a neighbouring stall.</li>
+          <li><strong>Products liability</strong> — Illness or injury caused by the food you sell. This is the single most important extension for a food business, and it is often bundled with public liability under a combined limit. Confirm it is actually there rather than assuming it.</li>
+          <li><strong>Commercial motor</strong> — The truck or trailer itself while driving and while parked. A private policy will not respond to commercial use.</li>
+          <li><strong>Business contents and portable equipment</strong> — Fryers, urns, refrigeration, gazebos, generators. Often the largest single asset after the vehicle.</li>
+          <li><strong>Stock and stock-in-transit</strong> — Product spoilage after a refrigeration failure or breakdown on the way to an event.</li>
+          <li><strong>Statutory liability</strong> — Legal defence costs if a food safety or health and safety matter is investigated.</li>
+        </ul>
+        <p>Business interruption is worth a conversation too. If your truck is off the road for six weeks after an accident, the vehicle repair is covered but the lost trading income generally is not, unless the policy specifically includes it.</p>
+
+        <h2>Where Mobile Food Claims Actually Come From</h2>
+        <p>Claims data for mobile food operators clusters around a small number of recurring causes, most of which are avoidable with basic site discipline.</p>
+        <table>
+          <thead>
+            <tr><th>Cause</th><th>Typical scenario</th><th>Cover that responds</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Trip hazards</td><td>Unmatted power leads, gas hoses, guy ropes across a walkway</td><td>Public liability</td></tr>
+            <tr><td>Burns and scalds</td><td>Hot drinks handed across a counter; oil splash at a serving window</td><td>Public liability</td></tr>
+            <tr><td>Foodborne illness</td><td>Temperature control failure during a hot day; cross-contamination</td><td>Products liability</td></tr>
+            <tr><td>Wind damage</td><td>Un-weighted gazebo lifting and striking a person or vehicle</td><td>Public liability</td></tr>
+            <tr><td>Gas and fire</td><td>LPG leak or fryer fire spreading to adjacent stalls</td><td>Public liability, plus material damage for your own gear</td></tr>
+            <tr><td>Allergen incidents</td><td>Undisclosed allergen in a product sold without labelling</td><td>Products liability</td></tr>
+          </tbody>
+        </table>
+        <p>Wind is the underrated one. Un-weighted marquees and gazebos cause a disproportionate share of market-day incidents, and organisers increasingly write minimum weighting requirements into stallholder terms. Failing to follow those terms can give an insurer grounds to argue about a claim.</p>
+
+        <h2>Practical Steps Before Your Next Event</h2>
+        <ul>
+          <li>Check your certificate of currency expiry date against your booked event calendar</li>
+          <li>Confirm products liability is included and note whether it shares the public liability limit or sits separately</li>
+          <li>Ask your organiser in writing what limit and endorsements they require, and keep the reply on file</li>
+          <li>Verify your vehicle is on a commercial policy, not a private one</li>
+          <li>Keep allergen information visible at the point of sale and record your temperature checks</li>
+          <li>Weight every marquee leg to the organiser's stated standard, every time</li>
+        </ul>
+
+        <h2>Choosing a Limit</h2>
+        <p>A $1M limit meets the minimum for most small markets, but it is thin cover for a food business. A single serious burn claim involving ongoing care costs, or a foodborne illness event affecting multiple customers at one event, can move well past that figure once legal costs are added. Operators trading regularly at larger events or on council land generally sit at $2M, and anyone working stadium or airport sites will need $5M because the venue contract says so.</p>
+        <p>The premium difference between $1M and $2M is usually modest — often a matter of tens of dollars a year on a small mobile risk — which makes the higher limit an easy decision for most operators.</p>
+
+        <h2>Next Steps</h2>
+        <p>Check your council's mobile trading page for the exact licence conditions in your district, then compare your current certificate against the limits above. If you are trading at multiple markets under different organiser requirements, set your limit to the highest one rather than carrying separate arrangements.</p>
+        <p><a href="/coverage/">Read our coverage guide</a> to see how public liability and products liability interact, or <a href="/contact/">Get a Quote</a> and a referred adviser will put together a package that covers the truck, the equipment, the food, and the public in one place.</p>
+    `,
+  },
 ];
