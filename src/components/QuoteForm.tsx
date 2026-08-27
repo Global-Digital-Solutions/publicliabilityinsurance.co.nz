@@ -67,7 +67,7 @@ export default function QuoteForm({ variant = 'default' }: QuoteFormProps) {
             className="w-full px-3 py-2.5 rounded-lg text-sm text-gray-900 bg-white placeholder-gray-400 border-0 focus:ring-2 focus:ring-white outline-none"
           />
           <input
-            type="tel"
+            type="tel" pattern="[+]?[0-9\s\-().]{6,}" title="Please enter a valid phone number" minLength={6}
             name="phone"
             required
             placeholder="Phone number"
@@ -176,7 +176,7 @@ export default function QuoteForm({ variant = 'default' }: QuoteFormProps) {
               Phone Number <span className="text-emerald-600">*</span>
             </label>
             <input
-              type="tel"
+              type="tel" pattern="[+]?[0-9\s\-().]{6,}" title="Please enter a valid phone number" minLength={6}
               id="phone"
               name="phone"
               required
