@@ -1070,4 +1070,171 @@ export const blogPosts: BlogPost[] = [
         <p><a href="/coverage/">Read our coverage guide</a> to see how public liability and products liability interact, or <a href="/contact/">Get a Quote</a> and a referred adviser will put together a package that covers the truck, the equipment, the food, and the public in one place.</p>
     `,
   },
+  {
+    slug: 'asbestos-liability-cover-tradies-2026',
+    image: 'https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80',
+    title: 'Asbestos Work and Liability Cover for Tradies: What the Updated Guidance Changed',
+    excerpt:
+      'WorkSafe rewrote its asbestos guidance in stages through 2026, with tailored material for tradespeople. Here is how those duties interact with the asbestos exclusion in most liability policies',
+    date: '2026-09-01',
+    category: 'Regulation',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>WorkSafe published the second and third stages of its rewritten asbestos guidance on 16 April 2026, completing a suite that now includes material written specifically for tradespeople rather than only for licensed removalists. That distinction matters, because most asbestos exposure on residential jobs happens to plumbers, sparkies, builders and painters who never intended to disturb it at all.</p>
+        <p>The regulatory duties themselves did not change. The Health and Safety at Work (Asbestos) Regulations 2016 still set the framework, and the interpretive guidelines still explain what a PCBU must do before, during and after any work that could disturb asbestos-containing material. What changed is that WorkSafe has made those duties far harder to misread — which in turn makes it harder to argue you did not know, if a claim or an investigation follows.</p>
+
+        <h2>Why This Matters for Your Liability Policy</h2>
+        <p>Almost every general liability policy sold to a trade business carries an asbestos exclusion. It is one of the most consistently applied exclusions in the market, alongside those for pollution and for faulty workmanship. The wording varies, but the effect is broadly the same: the insurer will not respond to liability arising out of asbestos, whether that liability is for injury, for property contamination, or for the cost of cleaning up a site.</p>
+        <p>The practical consequence is that if you cut into a mid-century soffit, release fibres, and the homeowner has to move out while a licensed removalist decontaminates the house, the remediation bill sits with you. There is no public liability cover behind it. The homeowner has a straightforward negligence claim, and you are meeting it personally or from the business.</p>
+        <p>That is not a gap you close by buying a bigger limit. A $5M policy with an asbestos exclusion pays exactly the same as a $1M policy with an asbestos exclusion. The only workable protection is procedural — identify the material before you touch it.</p>
+
+        <h2>Which Buildings Are In Scope</h2>
+        <p>Asbestos was used widely in residential and commercial construction until it was progressively withdrawn. The rough working rule most trades apply is set out below, though age alone is never a substitute for an inspection.</p>
+        <table>
+          <thead>
+            <tr><th>Build period</th><th>Likelihood of asbestos-containing material</th><th>Typical locations</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Pre-1980</td><td>High</td><td>Fibre cement cladding, soffits, roofing, vinyl backing, textured ceilings, lagging</td></tr>
+            <tr><td>1980-1990</td><td>Moderate</td><td>Remaining stock of cement sheet, some flooring products, older imported fittings</td></tr>
+            <tr><td>1990-2000</td><td>Low but not zero</td><td>Residual stock, imported components, previously renovated sections</td></tr>
+            <tr><td>Post-2000</td><td>Very low</td><td>Generally only where older material was retained during earlier work</td></tr>
+          </tbody>
+        </table>
+        <p>The awkward cases are renovated properties. A 2015 kitchen extension on a 1962 house tells you nothing about the rest of the building, and the section you are working on may sit directly against original material.</p>
+
+        <h2>The Duties That Sit With You</h2>
+        <p>Under the regulations, a PCBU with management or control of a workplace must identify asbestos, or assume it is present, before work begins. For a subcontractor arriving on someone else's site, that duty does not disappear — you still have a duty to your own workers and to others affected by your work.</p>
+        <ul>
+          <li><strong>Identify or assume.</strong> Either the material has been tested and cleared, or you treat it as asbestos-containing and work accordingly. There is no third option.</li>
+          <li><strong>Check the asbestos management plan.</strong> Workplaces built before 1 January 2000 that are not residential dwellings must have one. Ask for it and read the register before you start.</li>
+          <li><strong>Stay under the licensing thresholds.</strong> Removal of more than 10 square metres of non-friable asbestos requires a Class B licence. Any friable asbestos requires Class A. There is no volume allowance for friable material.</li>
+          <li><strong>Notify where required.</strong> Licensed removal work must be notified to WorkSafe in advance.</li>
+          <li><strong>Keep the evidence.</strong> Test results, clearance certificates, photographs of the material before work started. These are what defend you if a contamination claim arrives eighteen months later.</li>
+        </ul>
+
+        <h3>The 10 Square Metre Trap</h3>
+        <p>The non-friable threshold is frequently misread as a permission. It is not. Removing under 10 square metres without a licence is legal, but every other duty still applies — control measures, decontamination, safe disposal to a facility that accepts asbestos, and worker health monitoring where exposure is likely. A tradesperson who removes eight square metres of cement sheet with an angle grinder and no containment has complied with the licensing rule and breached almost everything else.</p>
+
+        <h2>What Cover Is Actually Available</h2>
+        <p>Because the exclusion is near-universal in general liability wordings, businesses that work with asbestos deliberately have to structure cover differently.</p>
+        <table>
+          <thead>
+            <tr><th>Business type</th><th>Realistic position</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>General trades, no intended asbestos work</td><td>Standard liability policy with asbestos exclusion. Risk managed by identification, not insurance.</td></tr>
+            <tr><td>Licensed removalist (Class A or B)</td><td>Specialist liability placement with asbestos cover written back in. Materially higher premium and strict conditions on method statements.</td></tr>
+            <tr><td>Surveyor or assessor</td><td>Professional indemnity is the primary cover, since the exposure is a wrong opinion rather than physical damage.</td></tr>
+            <tr><td>Demolition and strip-out</td><td>Usually requires both a specialist liability placement and contract works cover.</td></tr>
+          </tbody>
+        </table>
+        <p>If asbestos work is only an occasional part of what you do, the honest answer is usually to subcontract it to a licensed operator and verify their certificate of currency rather than trying to buy the cover yourself. Their premium is priced for that risk. Yours is not.</p>
+
+        <h3>Verifying a Subcontractor Properly</h3>
+        <p>A licence number and a certificate of currency are two separate things and you need both. Check that the licence class matches the work — a Class B holder cannot lawfully touch friable material — and check that the liability policy named on the certificate does not itself exclude asbestos. Certificates issued on general trade wordings frequently do, which leaves the principal exposed even though a certificate was collected.</p>
+
+        <h2>Where the Liability Lands After an Incident</h2>
+        <p>Contamination claims tend to be expensive out of proportion to the work that caused them. The cost driver is not the asbestos, it is everything around it: decontamination of the dwelling, disposal of soft furnishings and carpet, alternative accommodation for the occupants, air clearance testing, and in disputed cases, expert evidence. A modest disturbance in an occupied home can run well into six figures once those items are added.</p>
+        <p>Where there is also a WorkSafe investigation, fines and reparation orders sit alongside the civil claim. Fines are not insurable. Reparation to a victim can sometimes be met by a statutory liability policy, if you hold one and the wording permits, but the fine itself never is. Our <a href="/coverage/">coverage guide</a> sets out how statutory liability and public liability handle these two exposures differently.</p>
+
+        <h2>A Practical Pre-Start Routine</h2>
+        <ul>
+          <li>Ask the age of the building and whether any part has been renovated, and record the answer</li>
+          <li>For anything pre-2000, request the asbestos management plan or, for dwellings, arrange a survey of the work area</li>
+          <li>Photograph the material you will be working on before you touch it</li>
+          <li>Where testing is not practical and the material is suspect, price the job on the assumption it is asbestos-containing</li>
+          <li>Never use power tools, water blasters or abrasive discs on unidentified sheet material</li>
+          <li>Keep clearance certificates with the job file, not loose in a vehicle</li>
+        </ul>
+
+        <h2>Next Steps</h2>
+        <p>Read your current liability wording and find the asbestos exclusion — it is there, and knowing exactly how it is worded tells you where your exposure starts. Then check WorkSafe's updated tradespeople guidance against how your crews actually work on older buildings, because the gap between the two is where claims come from.</p>
+        <p>If your work regularly brings you into contact with pre-2000 building stock and you are unsure whether your current arrangement is adequate, <a href="/contact/">Get a Quote</a> and a referred adviser can review the wording and, where the risk warrants it, look at a specialist placement.</p>
+    `,
+  },
+  {
+    slug: 'arborist-landscaper-public-liability-insurance',
+    image: 'https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1200&q=80',
+    title: 'Public Liability Insurance for Arborists and Landscapers: Limits, Exclusions and Council Requirements',
+    excerpt:
+      'Tree work concentrates a lot of liability into a very short moment. Here is what limit arborists and landscapers actually need, and which exclusions catch operators out',
+    date: '2026-09-01',
+    category: 'Industry',
+    author: 'Cover4You Editorial',
+    content: `
+        <p>A single removal job can put a two-tonne stem within a few metres of a neighbouring roof, a car, a fence line and an overhead service. Very few trades concentrate that much potential damage into one controlled moment, which is why liability limits for arborists sit higher than the revenue of the business would otherwise suggest.</p>
+        <p>Spring is when the volume arrives. Pruning windows open, storm damage from winter gets cleared, and landscaping projects that were deferred over the wet months all start at once. It is also when operators take on unfamiliar work, hire casual crew, and rely on gear that has been parked up since autumn.</p>
+
+        <h2>What Public Liability Actually Covers Here</h2>
+        <p>Public liability responds to third-party injury and third-party property damage arising from your work. For tree and grounds work, the realistic claim scenarios are narrow but severe.</p>
+        <ul>
+          <li>A limb or stem falling outside the intended drop zone onto a structure or vehicle</li>
+          <li>Damage to a neighbouring property when a tree is felled across a boundary</li>
+          <li>Chipper or stump grinder debris striking a person, window or vehicle</li>
+          <li>Root damage to underground services during excavation or stump removal</li>
+          <li>Injury to a member of the public who enters an unsecured work zone</li>
+          <li>Damage to driveways, paving or irrigation from machinery access</li>
+        </ul>
+        <p>What it does not cover is the tree itself, your own equipment, or the cost of redoing work you got wrong. Those sit under contract works, plant and machinery, and — for advisory work such as tree health assessments or planting design — professional indemnity.</p>
+
+        <h2>Choosing a Limit</h2>
+        <p>The limit question is settled less by the size of the business than by what sits within falling distance of the work.</p>
+        <table>
+          <thead>
+            <tr><th>Type of work</th><th>Common limit</th><th>Why</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Lawn care, garden maintenance, planting</td><td>$1M</td><td>Low-energy work, limited access to structures</td></tr>
+            <tr><td>Hedging, small pruning, residential landscaping</td><td>$1M-$2M</td><td>Machinery and debris exposure on occupied sites</td></tr>
+            <tr><td>Residential tree removal and dismantling</td><td>$2M-$5M</td><td>Structures and vehicles routinely within the fall zone</td></tr>
+            <tr><td>Work near overhead lines or on council berms</td><td>$5M</td><td>Network operator and council contract conditions</td></tr>
+            <tr><td>Subcontracting to principals or main contractors</td><td>$5M minimum</td><td>Contractually specified, not negotiable</td></tr>
+          </tbody>
+        </table>
+        <p>The step from $1M to $2M is usually inexpensive on a small operation. The step to $5M costs more, but for anyone doing removals in established suburbs it is the working standard, because the exposure is not your revenue — it is the value of whatever is standing next to the tree.</p>
+
+        <h3>Why $1M Runs Out Faster Than It Looks</h3>
+        <p>A stem through a roof is rarely a roof-only claim. It becomes structural repair, internal water damage over the following weeks, contents, alternative accommodation while the dwelling is repaired, and the homeowner's insurer pursuing you through subrogation for the whole lot. Defence costs may erode the limit rather than sit above it, depending on the wording. A claim that starts as a $180,000 repair can present as a considerably larger demand by the time it is resolved.</p>
+
+        <h2>Exclusions That Catch Operators Out</h2>
+        <p>Several standard exclusions bite harder in this trade than in most.</p>
+        <table>
+          <thead>
+            <tr><th>Exclusion</th><th>What it means on a tree job</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Property in your care, custody or control</td><td>Damage to the item you were working on or handling may be excluded. Relevant where machinery is hired in or where you are storing materials on site.</td></tr>
+            <tr><td>Underground services</td><td>Frequently excluded or sub-limited unless a service location has been carried out and recorded.</td></tr>
+            <tr><td>Faulty workmanship</td><td>The cost of rectifying your own defective work is not covered, though resulting damage to other property usually is.</td></tr>
+            <tr><td>Height and depth restrictions</td><td>Some wordings restrict work above a stated height or below a stated depth. Climbing and elevated work platform operations can fall outside a general trade wording.</td></tr>
+            <tr><td>Pollution</td><td>Fuel or hydraulic oil spills into a waterway or stormwater drain are typically excluded beyond a sudden and accidental carve-back.</td></tr>
+            <tr><td>Asbestos</td><td>Relevant where stump grinding or excavation disturbs buried fibre cement, which is common on older sections.</td></tr>
+          </tbody>
+        </table>
+        <p>The height restriction is the one most often missed. An operator who upgrades from ground-based pruning to climbed dismantling has materially changed the risk, and a wording written for landscaping may not follow them up the tree. Tell your adviser when the nature of the work changes, not at renewal.</p>
+
+        <h2>Council and Network Requirements</h2>
+        <p>Work on council-controlled land, road reserve or berms carries its own conditions. Most councils require a traffic management plan for any work affecting the carriageway or footpath, evidence of liability cover at a stated limit, and in many districts an arborist report before any protected tree is touched. Protected and notable tree registers vary considerably between districts, and removing a listed tree without consent is an offence under the district plan regardless of who owns the land.</p>
+        <p>Work within the approach distances of overhead electricity lines is governed by the close approach rules and generally requires either a qualified competent person or written consent from the network operator. Contact with a live conductor produces exactly the kind of claim — serious injury plus network outage costs — that makes $5M the practical floor.</p>
+
+        <h3>What Principals Will Ask For</h3>
+        <ul>
+          <li>Certificate of currency showing the limit and the insured entity name exactly as contracted</li>
+          <li>Confirmation the policy covers subcontracted labour if you use it</li>
+          <li>Evidence of qualifications for climbed or aerial work</li>
+          <li>A site-specific hazard assessment and traffic management plan where applicable</li>
+          <li>Vehicle and plant cover for machinery brought onto site</li>
+        </ul>
+        <p>Where you engage subcontractors yourself, collect their certificate before they start and check the insured name matches the entity you are actually paying. A certificate in a trading name that does not match the invoicing company is a common and expensive mismatch.</p>
+
+        <h2>Reducing the Chance of a Claim</h2>
+        <p>Most tree-work property claims trace back to the same handful of causes: an underestimated fall zone, a defective stem that failed earlier than expected, an unsecured public boundary, or debris thrown further than anticipated. Documented pre-start assessments, exclusion zones that account for the full stem length plus a margin, and photographs of the site condition before work starts are the three things that most reliably shorten a dispute.</p>
+        <p>Photographs matter more than operators expect. A great many claims involve pre-existing damage to a driveway, fence or paving that the homeowner attributes to the job. A dated set of arrival photos resolves that in one email.</p>
+
+        <h2>Next Steps</h2>
+        <p>Check the limit on your current certificate against the table above, and specifically check whether your wording restricts working height or excludes underground services. Those two clauses account for a disproportionate share of declined claims in this trade.</p>
+        <p>Our <a href="/coverage/">coverage guide</a> explains how public liability sits alongside statutory liability and professional indemnity for advisory work. If you are expanding into removals, taking on council contracts, or bringing on subcontract crew this season, <a href="/contact/">Get a Quote</a> and a referred adviser will match the limit and wording to the work you are actually doing.</p>
+    `,
+  },
 ];
