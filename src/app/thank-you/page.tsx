@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import LeadEvent from '@/components/LeadEvent';
 
 export const metadata: Metadata = {
   title: 'Quote Submitted | Thank You | Cover4You',
@@ -10,6 +11,7 @@ export const metadata: Metadata = {
 export default function ThankYouPage() {
   return (
     <>
+      <LeadEvent variant="quote_form" />
       {/* Hero Section */}
       <section className="w-full bg-gradient-to-r from-emerald-600 to-blue-600 py-16 px-4">
         <div className="max-w-4xl mx-auto">
