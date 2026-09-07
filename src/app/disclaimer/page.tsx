@@ -65,7 +65,7 @@ export default function DisclaimerPage() {
             <section>
               <h2 className="text-2xl font-bold text-slate-900 mb-4">Regulatory Status</h2>
               <p className="leading-relaxed">
-                Cover4You operates as a financial advice provider registered under the Financial Markets Conduct Act 2013. Insurance advisers and brokers to whom we refer enquiries hold their own licences and authorisations as required by the FMCA and are members of recognised industry bodies including the Insurance Council of New Zealand (ICNZ).
+                Cover4You operates as a financial advice provider registered under the Financial Markets Conduct Act 2013. Insurance advisers and brokers to whom we refer enquiries hold their own licences and authorisations as required by the FMCA and are members of recognised industry bodies including the Financial Markets Authority.
               </p>
               <p className="leading-relaxed mt-3">
                 Where financial advice is provided in connection with a referral, it is provided by the licensed adviser to whom your enquiry is referred — not by PublicLiabilityInsurance.co.nz or Cover4You directly.

@@ -287,11 +287,11 @@ export default function CoveragePage() {
                   ],
                 },
                 {
-                  title: 'Insurance Council of NZ (ICNZ)',
+                  title: 'Financial Markets Authority (FSP)',
                   points: [
-                    'Only use ICNZ-registered insurers for protection',
+                    'Only use licensed New Zealand insurers for protection',
                     'Access to free dispute resolution via IFSO',
-                    'Protection under ICNZ Fair Insurance Code',
+                    'FSP registered broker network',
                     'Professional conduct and disclosure standards',
                     'Consumer information requirements enforced',
                   ],

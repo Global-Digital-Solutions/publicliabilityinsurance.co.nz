@@ -83,7 +83,7 @@ export default function PrivacyPage() {
           <h2>4. Who We Share Your Information With</h2>
           <h3>4.1 Insurance Partners</h3>
           <p>
-            We share your information with ICNZ-registered insurance companies and brokers to provide you with quote comparisons. These partners use your information solely to prepare personalised quotes and provide their services.
+            We share your information with licensed New Zealand insurers and brokers to provide you with quote comparisons. These partners use your information solely to prepare personalised quotes and provide their services.
           </p>
 
           <h3>4.2 Service Providers</h3>

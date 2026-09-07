@@ -31,7 +31,7 @@ export default function BusinessesPage() {
             Whether you're a sole trader dog walker or a busy café owner, find specialist public liability cover designed for your profession. Quotes with no obligation.
           </p>
           <div className="flex flex-wrap gap-3 justify-center">
-            {['✅ ICNZ Fair Code', '🔒 Licensed NZ Brokers', '💰 No Fees', '⚡ Same-Day Quotes'].map(b => (
+            {['✅ FSP Registered', '🔒 Licensed NZ Brokers', '💰 No Fees', '⚡ Same-Day Quotes'].map(b => (
               <span key={b} className="px-4 py-2 bg-white/10 backdrop-blur-sm border border-white/20 text-white text-xs font-semibold rounded-full">{b}</span>
             ))}
           </div>

@@ -91,7 +91,7 @@ export default function Home() {
           <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-14 pt-36 w-full">
             {/* Trust pills */}
             <div className="flex flex-wrap gap-2 mb-5">
-              {['✅ ICNZ Fair Code', '🔒 Licensed NZ Brokers', '🔍 Up to 15+ Insurers', '💡 Expert Advice', '✓ No Obligation'].map(pill => (
+              {['✅ FSP Registered', '🔒 Licensed NZ Brokers', '🔍 Up to 15+ Insurers', '💡 Expert Advice', '✓ No Obligation'].map(pill => (
                 <span key={pill} className="px-3 py-1.5 bg-white/15 backdrop-blur-sm border border-white/25 text-white text-xs font-medium rounded-full">{pill}</span>
               ))}
             </div>

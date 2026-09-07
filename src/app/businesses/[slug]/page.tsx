@@ -98,7 +98,7 @@ export default async function BusinessPage({ params }: { params: Promise<{ slug:
           <h1 className="text-3xl sm:text-5xl font-extrabold text-white max-w-3xl leading-tight mb-4">{business.headline}</h1>
           <p className="text-lg text-gray-200 max-w-2xl mb-6">{business.intro}</p>
           <div className="flex flex-wrap gap-3">
-            {['✅ ICNZ Fair Code', '🔒 Licensed NZ Brokers', `💰 From ${business.typicalPremium.split('–')[0].trim()}`, '💡 Free Expert Advice', '✓ No Obligation'].map(b => (
+            {['✅ FSP Registered', '🔒 Licensed NZ Brokers', `💰 From ${business.typicalPremium.split('–')[0].trim()}`, '💡 Free Expert Advice', '✓ No Obligation'].map(b => (
               <span key={b} className="px-3 py-1.5 bg-white/15 backdrop-blur-sm border border-white/25 text-white text-xs font-medium rounded-full">{b}</span>
             ))}
           </div>
@@ -212,7 +212,7 @@ export default async function BusinessPage({ params }: { params: Promise<{ slug:
                   <h3 className="font-bold text-sm mb-3 text-emerald-200 uppercase tracking-wider">Why Use Our Service?</h3>
                   <div className="space-y-2.5">
                     {[
-                      { icon: '✅', text: 'ICNZ Fair Insurance Code' },
+                      { icon: '✅', text: 'FSP Registered' },
                       { icon: '🔒', text: 'Licensed NZ Brokers' },
                       { icon: '🔍', text: 'Up to 15+ Insurers' },
                       { icon: '💡', text: 'Free Expert Advice' },

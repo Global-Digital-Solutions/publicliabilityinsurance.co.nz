@@ -170,13 +170,13 @@ export const faqs: FAQ[] = [
   },
   {
     category: 'NZ-Specific',
-    question: 'What is ICNZ and why does it matter?',
-    answer: 'ICNZ (Insurance Council of New Zealand) sets standards for the insurance industry. They provide dispute resolution and consumer protections. Using ICNZ-registered insurers provides additional security.',
+    question: 'What is FSP and why does it matter?',
+    answer: 'FSP (Financial Markets Authority) sets standards for the insurance industry. They provide dispute resolution and consumer protections. Using licensed New Zealand insurers provides additional security.',
   },
   {
     category: 'NZ-Specific',
     question: 'Are NZ insurers different from Australian ones?',
-    answer: 'Yes. NZ insurance is governed by NZ law and regulated by ICNZ. While some Australian companies operate here, ensure your insurer understands NZ legal requirements and precedents.',
+    answer: 'Yes. NZ insurance is governed by NZ law and regulated by FSP. While some Australian companies operate here, ensure your insurer understands NZ legal requirements and precedents.',
   },
   {
     category: 'NZ-Specific',

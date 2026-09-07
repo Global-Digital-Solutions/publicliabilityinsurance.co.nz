@@ -271,7 +271,7 @@ export default function ClaimsPage() {
                 <p className="text-emerald-100 text-sm leading-relaxed">
                   If internal resolution fails, you can escalate to the IFSO Scheme — a free, independent dispute resolution service. Visit{' '}
                   <a href="https://www.ifso.nz" target="_blank" rel="noopener noreferrer" className="text-emerald-300 hover:text-white underline">ifso.nz</a>{' '}
-                  or call <strong className="text-white">0800 888 202</strong>. Most ICNZ members are participants in this scheme.
+                  or call <strong className="text-white">0800 888 202</strong>. Most member insurers are participants in this scheme.
                 </p>
               </div>
               <div className="bg-white/10 rounded-2xl p-6 border border-white/20">

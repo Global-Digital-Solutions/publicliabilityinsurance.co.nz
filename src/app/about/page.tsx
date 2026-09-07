@@ -167,7 +167,7 @@ export default function AboutPage() {
           <h2 className="text-3xl font-bold text-slate-900 mb-6">Who We Work With</h2>
           <div className="prose max-w-none text-slate-700 text-lg leading-relaxed space-y-4">
             <p>
-              We connect you with licensed, experienced New Zealand insurance brokers who are authorised under the Financial Markets Conduct Act 2013. They follow the ICNZ Fair Insurance Code, which means you&apos;re protected by clear standards around how your enquiry is handled, how claims are managed, and how disputes are resolved.
+              We connect you with licensed, experienced New Zealand insurance brokers who are authorised under the Financial Markets Conduct Act 2013. They follow the industry claims standards, which means you&apos;re protected by clear standards around how your enquiry is handled, how claims are managed, and how disputes are resolved.
             </p>
             <p>
               Our broker panel works with a wide range of insurers including NZI, Vero, AIG, Zurich, Chubb, QBE and others — so you&apos;re not limited to what one company offers.
@@ -176,7 +176,7 @@ export default function AboutPage() {
 
           <div className="mt-8 grid md:grid-cols-3 gap-4">
             {[
-              { icon: '✅', label: 'ICNZ Fair Insurance Code' },
+              { icon: '✅', label: 'FSP Registered' },
               { icon: '🔒', label: 'FMCA Licensed Brokers' },
               { icon: '🇳🇿', label: 'NZ-Owned & Operated' },
             ].map((item) => (

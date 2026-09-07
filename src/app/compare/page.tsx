@@ -242,7 +242,7 @@ export default function ComparePage() {
                     <span className="text-red-600 font-bold">✗</span>
                     <div>
                       <p className="font-semibold text-slate-900">Unregistered Insurers</p>
-                      <p className="text-sm text-slate-600">Always use ICNZ-registered insurance companies</p>
+                      <p className="text-sm text-slate-600">Always use licensed New Zealand insurers</p>
                     </div>
                   </li>
                   <li className="flex gap-3">

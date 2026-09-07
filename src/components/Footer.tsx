@@ -20,7 +20,7 @@ export default function Footer() {
               Free broker referral service for NZ businesses and sole traders. We compare up to 15 insurers so you don&apos;t have to.
             </p>
             <div className="flex flex-wrap gap-1.5">
-              <span className="px-2 py-0.5 bg-emerald-900 text-emerald-300 border border-emerald-800 text-xs rounded-full">🌿 ICNZ Fair Code</span>
+              <span className="px-2 py-0.5 bg-emerald-900 text-emerald-300 border border-emerald-800 text-xs rounded-full">FSP Registered</span>
               <span className="px-2 py-0.5 bg-slate-800 text-slate-300 border border-slate-700 text-xs rounded-full">🤝 Free Advice</span>
             </div>
           </div>
@@ -122,7 +122,7 @@ export default function Footer() {
               PublicLiabilityInsurance.co.nz is a comparison and referral service operated by{' '}
               <a href="https://www.cover4you.co.nz" target="_blank" rel="noopener noreferrer" className="text-emerald-400 hover:text-emerald-300 underline">Cover4You</a>
               {' '}— not an insurance underwriter or licensed insurer.
-              We compare information from multiple ICNZ-registered insurers and refer qualified enquiries to licensed NZ insurance advisers and brokers.
+              We compare information from multiple licensed New Zealand insurers and refer qualified enquiries to licensed NZ insurance advisers and brokers.
               Our service is free to use. We may receive a referral fee from insurers when a policy is taken out through our referral.
               All information on this site is general in nature and does not constitute personalised financial advice under the Financial Markets Conduct Act 2013.
               Always read the policy wording and consult a licensed adviser before purchasing. Financial advice is provided by{' '}
