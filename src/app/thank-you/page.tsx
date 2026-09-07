@@ -19,7 +19,7 @@ export default function ThankYouPage() {
             Thank You!
           </h1>
           <p className="text-xl text-emerald-100">
-            Your quote request has been received and is being processed.
+            It is with a licensed broker now. Here is what happens next, and what to watch out for.
           </p>
         </div>
       </section>
@@ -46,7 +46,7 @@ export default function ThankYouPage() {
                 <div>
                   <h3 className="text-xl font-bold text-slate-900 mb-2">Processing</h3>
                   <p className="text-slate-700">
-                    We're comparing quotes from multiple licensed New Zealand insurers based on your business profile.
+                    Your enquiry is with a licensed broker who deals with liability risk for businesses like yours. They approach the insurers that suit what you actually do.
                   </p>
                   <p className="text-sm text-slate-600 mt-2">Typical time: 30 minutes to 2 hours</p>
                 </div>
@@ -153,7 +153,7 @@ export default function ThankYouPage() {
               <div>
                 <h4 className="font-bold text-slate-900 mb-2">Are these real quotes?</h4>
                 <p className="text-slate-700">
-                  Yes, absolutely. Each quote is genuine and based on the information you provided. Insurers provide real pricing that you can act on immediately.
+                  Any figure you are given comes from an insurer via your broker and is based on what you told us. It is a quote, not a binding offer — cover starts only when the broker confirms it in writing, and the policy wording governs what is actually covered.
                 </p>
               </div>
             </div>
@@ -209,7 +209,7 @@ export default function ThankYouPage() {
             <ul className="space-y-3 mb-6">
               <li className="flex gap-3">
                 <span className="text-xl">✓</span>
-                <span>Check your email for the quote comparison</span>
+                <span>Watch your inbox, and your spam folder — the first contact often lands there</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-xl">✓</span>
@@ -217,15 +217,15 @@ export default function ThankYouPage() {
               </li>
               <li className="flex gap-3">
                 <span className="text-xl">✓</span>
-                <span>Feel free to ask questions or request modifications</span>
+                <span>Ask the broker anything, including whether you need the cover at all</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-xl">✓</span>
-                <span>Choose your preferred insurer and coverage level</span>
+                <span>Compare what you are offered on wording and excess, not only on price</span>
               </li>
               <li className="flex gap-3">
                 <span className="text-xl">✓</span>
-                <span>Complete the simple application to activate coverage</span>
+                <span>If you go ahead, your broker handles the paperwork and confirms when cover starts</span>
               </li>
             </ul>
 

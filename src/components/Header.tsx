@@ -1,5 +1,7 @@
 'use client';
 
+import { usePathname } from 'next/navigation';
+
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
 
@@ -17,6 +19,11 @@ const businessLinks = [
 ];
 
 export default function Header() {
+  const pathname = usePathname();
+  // The confirmation page has no navigation job to do, so the header does not
+  // need to follow the reader down it. Unpinning frees the viewport for the
+  // content that actually matters after a submission.
+  const isPinned = !pathname?.startsWith('/thank-you');
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
   const [isSectorsOpen, setIsSectorsOpen] = useState(false);
@@ -33,7 +40,7 @@ export default function Header() {
 
   return (
     <header
-      className={`sticky top-0 z-50 w-full transition-shadow duration-200 ${
+      className={`${isPinned ? 'sticky top-0 z-50' : 'relative'} w-full transition-shadow duration-200 ${
         isScrolled ? 'shadow-md' : 'shadow-none'
       } bg-white`}
     >

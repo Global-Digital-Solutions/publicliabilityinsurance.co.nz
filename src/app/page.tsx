@@ -141,12 +141,12 @@ export default function Home() {
         </section>
 
         {/* How It Works */}
-        <section className="w-full py-20 px-4 sm:px-6 lg:px-8 bg-slate-900">
+        <section className="w-full py-16 px-4 sm:px-6 lg:px-8 bg-white border-t border-slate-100">
           <div className="max-w-6xl mx-auto">
             <div className="text-center mb-14">
-              <span className="inline-block px-3 py-1 bg-emerald-500/20 text-emerald-400 text-xs font-bold uppercase tracking-widest rounded-full mb-4">Simple Process</span>
-              <h2 className="text-3xl sm:text-4xl font-extrabold text-white mb-4">How It Works</h2>
-              <p className="text-lg text-slate-400 max-w-2xl mx-auto">
+              <span className="inline-block px-3 py-1 bg-emerald-100 text-emerald-700 text-xs font-bold uppercase tracking-widest rounded-full mb-4">Simple Process</span>
+              <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-4">How It Works</h2>
+              <p className="text-lg text-slate-600 max-w-2xl mx-auto">
                 Getting the right public liability insurance for your NZ business is simpler than you think. Four steps to fully covered.
               </p>
             </div>
@@ -160,8 +160,8 @@ export default function Home() {
                 },
                 {
                   step: '2',
-                  title: 'We Compare 15+ Insurers',
-                  description: 'Our licensed brokers compare policies from leading NZ public liability insurers to find the best fit for your risk profile.',
+                  title: 'Your Broker Approaches the Market',
+                  description: 'A licensed broker approaches the insurers that suit what your business actually does, and explains what comes back.',
                 },
                 {
                   step: '3',
@@ -184,8 +184,8 @@ export default function Home() {
                   <div className="relative z-10 flex items-center justify-center w-[72px] h-[72px] rounded-full bg-emerald-500 text-white text-2xl font-extrabold mb-5 shadow-lg shadow-emerald-500/30 ring-4 ring-emerald-500/20">
                     {item.step}
                   </div>
-                  <h3 className="text-lg font-bold text-white mb-3">{item.title}</h3>
-                  <p className="text-slate-400 text-sm leading-relaxed">{item.description}</p>
+                  <h3 className="text-lg font-bold text-slate-900 mb-3">{item.title}</h3>
+                  <p className="text-slate-600 text-sm leading-relaxed">{item.description}</p>
                 </div>
               ))}
             </div>
@@ -193,7 +193,7 @@ export default function Home() {
             <div className="text-center">
               <a
                 href="#quote-form"
-                className="inline-flex items-center gap-2 px-8 py-4 bg-emerald-500 hover:bg-emerald-400 text-white font-bold rounded-xl transition-colors shadow-lg shadow-emerald-500/25 text-base"
+                className="inline-flex items-center gap-2 px-8 py-4 bg-emerald-600 hover:bg-emerald-700 text-white font-bold rounded-xl transition-colors shadow-lg shadow-emerald-500/25 text-base"
               >
                 Start Your Quote →
               </a>
@@ -271,125 +271,154 @@ export default function Home() {
         </section>
 
         {/* Why Public Liability Insurance — dark section for contrast */}
-        <section className="w-full py-20 px-4 bg-slate-900">
+        <section className="w-full py-16 px-4 bg-slate-50">
           <div className="max-w-5xl mx-auto">
             <div className="text-center mb-12">
-              <span className="inline-block px-3 py-1 bg-emerald-500/20 text-emerald-400 text-xs font-bold uppercase tracking-widest rounded-full mb-4">Why It Matters</span>
-              <h2 className="text-3xl sm:text-4xl font-extrabold text-white mb-4">
-                Why Public Liability Cover is Essential
+              <span className="inline-block px-3 py-1 bg-emerald-100 text-emerald-700 text-xs font-bold uppercase tracking-widest rounded-full mb-4">Why It Matters</span>
+              <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-4">
+                What Public Liability Actually Does
               </h2>
-              <p className="text-lg text-slate-400 max-w-2xl mx-auto">Six reasons every business should have cover in place before something goes wrong.</p>
+              <p className="text-lg text-slate-600 max-w-2xl mx-auto">Six situations it is designed to respond to. Whether any of them apply to your business is a question for a broker, not a web page.</p>
             </div>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-10">
               {[
                 {
-                  icon: '⚖️',
                   title: 'Legal Protection',
                   description: 'Under NZ law, businesses can be held liable for injury or property damage to customers or the public. A single claim can cost tens of thousands of dollars.',
                 },
                 {
-                  icon: '🏆',
                   title: 'Business Reputation',
                   description: 'A single incident can damage your reputation. Insurance ensures you can respond professionally without disrupting your operations.',
                 },
                 {
-                  icon: '📄',
                   title: 'Client Requirements',
                   description: 'Many clients — especially councils and large organisations — require proof of public liability cover before awarding contracts.',
                 },
                 {
-                  icon: '🧘',
                   title: 'Peace of Mind',
                   description: "Know you're protected against unexpected claims. Focus on growing your business instead of worrying about financial exposure.",
                 },
                 {
-                  icon: '✅',
                   title: 'Compliance',
                   description: 'Insurance is often required by site access conditions, health and safety regulations, and commercial tenancy agreements.',
                 },
                 {
-                  icon: '💰',
                   title: 'Affordable Protection',
                   description: 'Premiums vary by industry and risk, but quality coverage is typically far cheaper than the cost of a single uninsured claim.',
                 },
               ].map((benefit, idx) => (
-                <div key={idx} className="flex gap-4 bg-white/5 border border-white/10 rounded-2xl p-5 hover:bg-white/10 hover:border-emerald-500/40 transition-all duration-200">
-                  <div className="flex-shrink-0 w-11 h-11 rounded-xl bg-emerald-500/20 border border-emerald-500/30 flex items-center justify-center text-xl">
-                    {benefit.icon}
-                  </div>
+                <div key={idx} className="flex gap-4 bg-white border border-slate-200 rounded-2xl p-5 hover:border-emerald-300 hover:shadow-sm transition-all duration-200">
                   <div>
-                    <h3 className="text-base font-bold text-white mb-1.5">{benefit.title}</h3>
-                    <p className="text-slate-400 text-sm leading-relaxed">{benefit.description}</p>
+                    <h3 className="text-base font-bold text-slate-900 mb-1.5">{benefit.title}</h3>
+                    <p className="text-slate-600 text-sm leading-relaxed">{benefit.description}</p>
                   </div>
                 </div>
               ))}
             </div>
 
-            <div className="bg-emerald-600/20 border border-emerald-500/40 rounded-2xl p-6">
+            <div className="bg-emerald-50 border border-emerald-200 rounded-2xl p-6">
               <div className="flex gap-3">
-                <div className="text-2xl flex-shrink-0">💡</div>
-                <p className="text-slate-300 text-sm leading-relaxed">
-                  <span className="font-semibold text-white">Key Fact:</span> The Health and Safety at Work Act 2015 doesn&apos;t mandate public liability insurance, but businesses can be prosecuted for safety breaches. Having cover in place is the prudent way to manage that financial risk.
+                <p className="text-slate-700 text-sm leading-relaxed">
+                  <span className="font-semibold text-slate-900">Worth knowing:</span> The Health and Safety at Work Act 2015 doesn&apos;t mandate public liability insurance, but businesses can be prosecuted for safety breaches. Having cover in place is the prudent way to manage that financial risk.
                 </p>
               </div>
             </div>
           </div>
         </section>
 
-        {/* Testimonials */}
-        <section className="w-full py-20 px-4 bg-slate-50">
+        {/* What public liability does not cover — the honest package message */}
+        <section className="w-full py-16 px-4 bg-white border-t border-slate-100">
           <div className="max-w-5xl mx-auto">
-            <div className="text-center mb-12">
-              <span className="inline-block px-3 py-1 bg-emerald-100 text-emerald-700 text-xs font-bold uppercase tracking-widest rounded-full mb-4">Client Feedback</span>
-              <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-2">
-                Trusted by Business Owners
+            <div className="text-center mb-10">
+              <span className="inline-block px-3 py-1 bg-slate-100 text-slate-600 text-xs font-bold uppercase tracking-widest rounded-full mb-4">Worth Knowing</span>
+              <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-3">
+                What Public Liability Does Not Cover
               </h2>
-              <p className="text-slate-500 text-sm">Names shown as first name and initial only to protect privacy.</p>
+              <p className="text-slate-600 max-w-2xl mx-auto">
+                Public liability answers for injury or property damage you cause to other people. It is not a
+                catch-all, and the gaps catch businesses out at exactly the wrong moment. These are the covers
+                that sit next to it.
+              </p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
               {[
                 {
-                  name: 'Sarah M.',
-                  initials: 'SM',
-                  business: 'Café Owner, Auckland',
-                  quote: 'I was worried about slip-and-fall claims from customers. PublicLiability.co.nz helped me find affordable coverage in minutes. The comparison was clear and honest.',
-                  stars: 5,
+                  gap: 'A claim about your advice or your work',
+                  detail: 'If a client says your advice, design or professional service cost them money, that is a professional indemnity claim. Public liability will not respond to it.',
+                  cover: 'Professional indemnity',
                 },
                 {
-                  name: 'James C.',
-                  initials: 'JC',
-                  business: 'Builder, Christchurch',
-                  quote: 'As a contractor, I need high limits for site work. The form understood my needs, and I got quotes from insurers who actually know construction risks. Saved me hours.',
-                  stars: 5,
+                  gap: 'A claim against you personally as a director',
+                  detail: 'Allegations about how a company was run are made against directors personally, and personal assets are what is at risk. That sits with directors and officers cover.',
+                  cover: "Directors' and officers'",
                 },
                 {
-                  name: 'Emma T.',
-                  initials: 'ET',
-                  business: 'School Principal, Wellington',
-                  quote: 'Our school needed updated coverage. The team understood duty of care in education. Great service, and no pressure to buy.',
-                  stars: 5,
+                  gap: 'A prosecution under New Zealand legislation',
+                  detail: 'Defending an unintentional breach of legislation is a separate cover again. Note that Health and Safety at Work Act fines cannot be insured by anyone \u2014 sections 29 and 30 of that Act make such an indemnity of no effect.',
+                  cover: 'Statutory liability',
                 },
-              ].map((testimonial, idx) => (
-                <div key={idx} className="bg-white rounded-2xl p-7 shadow-sm border-2 border-slate-100 hover:border-emerald-300 hover:shadow-md transition-all duration-200 flex flex-col">
-                  <div className="text-5xl text-emerald-200 font-serif leading-none mb-3 select-none">&ldquo;</div>
-                  <div className="flex gap-0.5 mb-3">
-                    {[...Array(testimonial.stars)].map((_, i) => (
-                      <span key={i} className="text-amber-400 text-lg">★</span>
-                    ))}
-                  </div>
-                  <p className="text-slate-700 text-sm leading-relaxed flex-1 mb-6 italic">
-                    {testimonial.quote}
-                  </p>
-                  <div className="flex items-center gap-3 pt-4 border-t border-slate-100">
-                    <div className="w-10 h-10 rounded-full bg-emerald-600 text-white flex items-center justify-center text-sm font-bold flex-shrink-0">
-                      {testimonial.initials}
-                    </div>
-                    <div>
-                      <p className="font-bold text-slate-900 text-sm">{testimonial.name}</p>
-                      <p className="text-slate-500 text-xs">{testimonial.business}</p>
-                    </div>
+                {
+                  gap: 'Injury to your own employees',
+                  detail: 'ACC covers personal injury in New Zealand, which is why employers liability here is narrower than overseas. It is worth understanding what falls outside ACC rather than assuming.',
+                  cover: 'Employers liability',
+                },
+                {
+                  gap: 'Damage to your own property or stock',
+                  detail: 'Public liability is third-party cover. Your own premises, plant, tools and stock are a material damage and business interruption question.',
+                  cover: 'Material damage',
+                },
+                {
+                  gap: 'A data breach or a cyber incident',
+                  detail: 'Privacy Act obligations, notification costs and system recovery are not third-party injury or property damage, so they fall outside public liability entirely.',
+                  cover: 'Cyber',
+                },
+              ].map((item, i) => (
+                <div key={i} className="bg-slate-50 rounded-xl p-5 border border-slate-200">
+                  <div className="text-xs font-bold uppercase tracking-widest text-emerald-700 mb-2">{item.cover}</div>
+                  <h3 className="font-bold text-slate-900 mb-2 text-sm leading-snug">{item.gap}</h3>
+                  <p className="text-slate-600 text-sm leading-relaxed">{item.detail}</p>
+                </div>
+              ))}
+            </div>
+
+            <p className="text-center text-slate-600 text-sm mt-8 max-w-2xl mx-auto">
+              Whether any of these apply to you depends on what your business actually does, and that is a
+              question for a licensed broker rather than a website. Mention what you do when you enquire and
+              they will tell you which of these are worth discussing and which are not.
+            </p>
+          </div>
+        </section>
+
+        {/* How we choose the brokers we refer to */}
+        <section className="w-full py-16 px-4 bg-slate-50">
+          <div className="max-w-4xl mx-auto">
+            <div className="text-center mb-10">
+              <span className="inline-block px-3 py-1 bg-emerald-100 text-emerald-700 text-xs font-bold uppercase tracking-widest rounded-full mb-4">How We Choose</span>
+              <h2 className="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-3">
+                The Brokers We Send You To
+              </h2>
+              <p className="text-slate-600 max-w-2xl mx-auto">
+                We do not refer to whoever pays the most. A small number of brokers, chosen deliberately,
+                against a test we can describe.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {[
+                { t: 'We have spoken to them', d: 'Every broker we refer to is one we have dealt with directly. The test we apply is simple: would we be happy for a friend to ring them?' },
+                { t: 'They are FSP registered', d: 'Listed on the Financial Service Providers Register, which is public. Ask any broker for their registration and check it yourself at fsp-register.companiesoffice.govt.nz.' },
+                { t: 'They answer the phone', d: 'We watch response times. A broker who is hard to reach when you are getting a quote is a broker who will be hard to reach when you have a claim.' },
+                { t: 'They will say no', d: 'A broker who pushes cover a business does not need is no use to you, and we stop referring to them.' },
+                { t: 'They know the sector', d: 'Liability risk for a cafe is not liability risk for a scaffolder. We match the enquiry to someone who has written that kind of risk before.' },
+                { t: 'It costs you nothing', d: 'Brokers are paid by the insurer. There is no fee to you for the referral or the conversation, and no obligation at the end of it.' },
+              ].map((item, i) => (
+                <div key={i} className="bg-white rounded-xl p-5 border border-slate-200 flex gap-4">
+                  <span className="text-emerald-600 font-bold flex-shrink-0 mt-0.5">&#10003;</span>
+                  <div>
+                    <h3 className="font-bold text-slate-900 mb-1 text-sm">{item.t}</h3>
+                    <p className="text-slate-600 text-sm leading-relaxed">{item.d}</p>
                   </div>
                 </div>
               ))}
@@ -397,7 +426,7 @@ export default function Home() {
           </div>
         </section>
 
-        {/* FAQ */}
+                {/* FAQ */}
         <section className="w-full py-20 px-4 bg-white">
           <div className="max-w-4xl mx-auto">
             <div className="text-center mb-12">
@@ -461,8 +490,8 @@ export default function Home() {
                 </p>
                 <ul className="space-y-4 mb-8">
                   {[
-                    { icon: '✓', title: 'Compare 15+ NZ insurers', desc: 'We shop the whole market so you don\'t have to' },
-                    { icon: '✓', title: 'Licensed insurance brokers', desc: 'IBANZ-accredited advisers manage your query' },
+                    { icon: '✓', title: 'A broker who knows your sector', desc: 'They approach the insurers that suit what your business actually does' },
+                    { icon: '✓', title: 'FSP registered brokers', desc: 'Listed on the public Financial Service Providers Register — check any broker yourself' },
                     { icon: '✓', title: 'Same-day response', desc: 'Quotes back within hours, not days' },
                     { icon: '✓', title: 'No fees to you', desc: 'No fees to you — brokers are paid by insurers' },
                   ].map((item, i) => (
